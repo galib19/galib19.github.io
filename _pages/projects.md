@@ -28,9 +28,8 @@ author_profile: true
 
 # Academic/Professional Projects: 
 <br>
-<b>[1. Pre-birth Factors in the Early Assessment of Child Mortality using Machine Learning Techniques)](http://galib19.github.io/projects/ChildMortality2019)</b> <br> 
-<b>Asadullah Hill Galib</b> and B M Mainul Hossain.
-> This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript in Preparation.
+<b>LifeBlood</b> <br> 
+> A GPS based blood donor finder android app which sorts out nearer blood donors across the map. In addition, a user rating system and profiling of donors are being implemented. 
 
 <!-- 
 <b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 
