@@ -30,16 +30,21 @@ author_profile: true
 
 ## Academic/Professional Projects: 
 <br>
-<b>1. LifeBlood</b>
-    >A GPS based blood donor finder android app which sorts out nearer blood donors across the map. In addition, a user rating system and profiling of donors are being implemented.
-<b>2. AutoPilot-Web</b> 
-    >A web-based digital transformation of BTS (Base transceiver station) management. Its purpose is to optimize and automate the existing network management system. 
-<b>3. AutoPilot-Mobile</b> 
-    >A mobile application (iOS and Android) for the digital transformation of BTS (Base transceiver station) management.
-<b>4. LogBook</b>  
-    >A web-based application for personal task management including task manager, notes, attachments, reminders and synchronization.
-<b>5. Offline-Search-Engine</b> 
-    >An Offline (file-folder) search engine for Linux and Windows operating systems.
+<b>1. LifeBlood</b> <br> 
+A GPS based blood donor finder android app which sorts out nearer blood donors across the map. In addition, a user rating system and profiling of donors are being implemented.
+<br>
+<b>2. AutoPilot-Web</b> <br> 
+A web-based digital transformation of BTS (Base transceiver station) management. Its purpose is to optimize and automate the existing network management system. 
+<br>
+<b>3. AutoPilot-Mobile</b> <br> 
+A mobile application (iOS and Android) for the digital transformation of BTS (Base transceiver station) management.
+<br>
+<b>4. LogBook</b> <br> 
+A web-based application for personal task management including task manager, notes, attachments, reminders and synchronization.
+<br>
+<b>5. Offline-Search-Engine</b> <br> 
+An Offline (file-folder) search engine for Linux and Windows operating systems.
+<br>
 
 
 <!-- 
