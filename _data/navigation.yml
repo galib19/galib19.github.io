@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "CV/Bio"
+    url: /files/CV_Asadullah_Hill_Galib_Research.pdf
+
   - title: "Publications"
     url: /publications/
 

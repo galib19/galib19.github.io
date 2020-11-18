@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/GodExpo_IWOR_2019
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-5-28
-venue: 'Montréal, QC, Canada'
+venue: 'In 2019 IEEE/ACM 3rd International Workshop on Refactoring (IWoR 2019)' 
 #paperurl: 'http://galib19.github.io/files/GodExpo_IWOR_2019.pdf'
 citation: 'Yasir, R. M., Asad, M., Galib, A. H., Ganguly, K. K., & Siddik, M. S. (2019, May). GodExpo: an automated god structure detection tool for Golang. In 2019 IEEE/ACM 3rd International Workshop on Refactoring (IWoR) (pp. 47-50). IEEE.'
 

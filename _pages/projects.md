@@ -3,6 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+# Research Projects: 
 <br>
 1. <b>[Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correla-tion Based Feature Elimination)](http://galib19.github.io/publications/SigapiSEKE2020)</b> <br> 
 <b>Asadullah Hill Galib</b> and B M Mainul Hossain.
