@@ -1,27 +1,26 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
-permalink: /publications/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 # Research Projects: 
 <br>
-1. <b>[Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correla-tion Based Feature Elimination)](http://galib19.github.io/publications/SigapiSEKE2020)</b> <br> 
+<b>[1. Pre-birth Factors in the Early Assessment of Child Mortality using Machine Learning Techniques)](http://galib19.github.io/projects/ChildMortality2019)</b> <br> 
 <b>Asadullah Hill Galib</b> and B M Mainul Hossain.
-<i>In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering (pp.  566-571)</i>. <b>SEKE 2020</b>.
+> This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript in Preparation.
 
-2. <b>[Review on Hybrid Analysis in Android Malware Detection](http://galib19.github.io/publications/Lit_Review_DUJASE_2020)</b> <br> 
-<b>Asadullah Hill Galib</b> and B M Mainul Hossain.
-<i>Dhaka University Journal of Applied Science & Engineering (DUJASE), Volume 5 (1 & 2). Manuscript in press.</i>. <b>DUJASE 2020</b>.
+<b>[2. Predicting GitHub Issues Lifetime using Machine Learning and Topic Modeling (LDA)](http://galib19.github.io/projects/GithubIssuesLDA2020)</b> <br> 
+Syed Fatiul Huq, <b>Asadullah Hill Galib</b>, Abu Rafe Md. Jamil, and Ahmedul Kabir.
+> This research project analyzes the characteristics and applicability of topic modeling (LDA) in GitHub Issues and predicting lifetime based on topic modeling (LDA) with machine learning techniques. Manuscript in Preparation.
 
 
-3. <b>[A Systematic Review on Hybrid Analysis using
-Machine Learning for Android Malware Detection](http://galib19.github.io/publications/Lit_Review_ICIET_2019)</b> <br> 
-<b>Asadullah Hill Galib</b> and B M Mainul Hossain.
-<i>International Conference on Innovation in Engineering and Technology. </i>. <b>ICIET 2019</b>.
+<b>[3. Optimizing Search Space in Code Smells Detection using a Novel Metric](http://galib19.github.io/projects/SearchSpace2020)</b> <br> 
+Abu Rafe Md. Jamil, <b>Asadullah Hill Galib</b>, Md Nurul Ahad Tawhid, and Nadia Nahar.
+> This research project tries to reduce search space in code smells detection using a novel metric called - NCPC, while maintaining the performance of code smells detection. Manuscript in Preparation. 
 
-4. <b>[GodExpo: an automated god structure detection tool for Golang](http://galib19.github.io/publications/GodExpo_IWOR_2019)</b> <br> 
-Rafed Muhammad Yasir, Moumita Asad, <b>Asadullah Hill Galib</b>, Kishan Kumar Ganguly, and Md. Saeed Siddik.
-<i>In 2019 IEEE/ACM 3rd International Workshop on Refactoring (IWoR) (pp. 47-50)</i>. <b>IWOR 2019</b>.
+<b>[4. ProtectMe: An Approach to Provide Audio Privacy in Real-time](http://galib19.github.io/projects/Protect_Me_2019)</b> <br> 
+Nishat Tasnim Niloy, Abu Rafe Md Jamil, <b>Asadullah Hill Galib</b>, Naushin Nower, and Mohammad Shoyaib.
+> This research project ensures audio communication with privacy in real-time using a modification algorithm. Manuscript in Preparation.
 
 
 
