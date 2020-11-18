@@ -3,7 +3,8 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-# Research Projects: 
+
+## Research Projects: 
 <br>
 <b>[1. Pre-birth Factors in the Early Assessment of Child Mortality using Machine Learning Techniques](http://galib19.github.io/projects/ChildMortality2019)</b> <br> 
 >Team: <b>Asadullah Hill Galib</b> and B M Mainul Hossain.
@@ -25,28 +26,24 @@ author_profile: true
 >Team: Nishat Tasnim Niloy, Abu Rafe Md Jamil, <b>Asadullah Hill Galib</b>, Naushin Nower, and Mohammad Shoyaib.
 > 
 >> This research project ensures audio communication with privacy in real-time using a modification algorithm. Manuscript in Preparation.
+<br>
 
-# Academic/Professional Projects: 
+## Academic/Professional Projects: 
 <br>
-><b>1. LifeBlood</b> <br> 
->
->> A GPS based blood donor finder android app which sorts out nearer blood donors across the map. In addition, a user rating system and profiling of donors are being implemented.
+<b>1. LifeBlood</b> <br> 
+> A GPS based blood donor finder android app which sorts out nearer blood donors across the map. In addition, a user rating system and profiling of donors are being implemented.
 <br>
-><b>2. AutoPilot-Web</b> <br> 
->
->> A web-based digital transformation of BTS (Base transceiver station) management. Its purpose is to optimize and automate the existing network management system. 
+<b>2. AutoPilot-Web</b> <br> 
+> A web-based digital transformation of BTS (Base transceiver station) management. Its purpose is to optimize and automate the existing network management system. 
 <br>
-><b>3. AutoPilot-Mobile</b> <br> 
->
->> A mobile application (iOS and Android) for the digital transformation of BTS (Base transceiver station) management.
+<b>3. AutoPilot-Mobile</b> <br> 
+> A mobile application (iOS and Android) for the digital transformation of BTS (Base transceiver station) management.
 <br>
-><b>4. LogBook</b> <br> 
->
->> A web-based application for personal task management including task manager, notes, attachments, reminders and synchronization.
+<b>4. LogBook</b> <br> 
+> A web-based application for personal task management including task manager, notes, attachments, reminders and synchronization.
 <br>
-><b>5. Offline-Search-Engine</b> <br> 
->
->> An Offline (file-folder) search engine for Linux and Windows operating systems.
+<b>5. Offline-Search-Engine</b> <br> 
+> An Offline (file-folder) search engine for Linux and Windows operating systems.
 <br>
 
 
