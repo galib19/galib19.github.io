@@ -3,26 +3,15 @@ title: "Skills"
 permalink: /skills/
 author_profile: true
 ---
+## Technical Skills
 
-### MS in Software Engineering 
-> University of Dhaka (2019-2020) <br>
->
-> Dhaka, Bangladesh
- 
-### BS in Software Engineering 
-> University of Dhaka (2015-2018) 
->
-> Dhaka, Bangladesh
+* Programming: Python, Java, C, C++, PHP, JavaScript, Assembly
+* Libraries: TensorFlow, React, Redux-Saga, jQuery
+* Database Management Systems: MySQL, Oracle, SQLite
+* Frameworks: React Native, Laravel, Selenium
+* Technologies and Methodologies: Git, agile, MVC, SRS, XAMPP, Postman
+* Project Management Applications: Jira, Trello, Desktime
 
-### Higher-Secondary School Certificate (HSC) 
-> Notre Dame College (2012-2014) <br>
->
-> Dhaka, Bangladesh
-
-### Secondary School Certificate (SSC) 
-> BAF Shaheen College, Kurmitola (2003-2012) <br>
->
-> Dhaka, Bangladesh
 
 
 <!-- 
