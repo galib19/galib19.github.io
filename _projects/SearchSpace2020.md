@@ -3,7 +3,7 @@ title: "Optimizing Search Space in Code Smells Detection using a Novel Metric"
 collection: projects
 permalink: /projects/SearchSpace2020
 excerpt: 'This research project tries to reduce search space in code smells detection using a novel metric called - NCPC, while maintaining the performance of code smells detection. Manuscript in Preparation. '
-date: '2020-06-12'
+#date: '2020-06-12'
 #venue: 'In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering, 2020 (SEKE 2020)'
 #paperurl: 'http://galib19.github.io/files/SigAPI_SEKE_2020.pdf'
 #citation: 'Galib, A. H., Hossain, B. M. (2020, July). Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correlation Based Feature Elimination). In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering (pp.566-571).'

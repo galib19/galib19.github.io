@@ -3,7 +3,7 @@ title: "Predicting GitHub Issues Lifetime using Machine Learning and Topic Model
 collection: projects
 permalink: /projects/GithubIssuesLDA2020
 excerpt: 'This research project analyzes the characteristics and applicability of topic modeling (LDA) in GitHub Issues and predicting lifetime based on topic modeling (LDA) with machine learning techniques Manuscript in Preparation.'
-date: '2020-07-15'
+#date: '2020-07-15'
 #venue: 'In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering, 2020 (SEKE 2020)'
 #paperurl: 'http://galib19.github.io/files/SigAPI_SEKE_2020.pdf'
 #citation: 'Galib, A. H., Hossain, B. M. (2020, July). Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correlation Based Feature Elimination). In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering (pp.566-571).'

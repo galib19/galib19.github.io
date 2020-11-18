@@ -3,7 +3,7 @@ title: "ProtectMe: An Approach to Provide Audio Privacy in Real-time"
 collection: projects
 permalink: /projects/Protect_Me_2019
 excerpt: 'This research project ensures audio communication with privacy in real-time using a modification algorithm. Manuscript in Preparation.'
-date: '2019-04-12'
+#date: '2019-04-12'
 #venue: 'In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering, 2020 (SEKE 2020)'
 #paperurl: 'http://galib19.github.io/files/SigAPI_SEKE_2020.pdf'
 #citation: 'Galib, A. H., Hossain, B. M. (2020, July). Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correlation Based Feature Elimination). In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering (pp.566-571).'

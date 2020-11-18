@@ -2,8 +2,8 @@
 title: "The Influences of Pre-birth Factors in Early Assessment of Child Mortality using Machine Learning Techniques"
 collection: projects
 permalink: /projects/ChildMortality2019
-#excerpt: 'This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript in Preparation.'
-date: '2019-06-03'
+excerpt: 'This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript in Preparation.'
+#date: '2019-06-03'
 #venue: 'In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering, 2020 (SEKE 2020)'
 #paperurl: 'http://galib19.github.io/files/SigAPI_SEKE_2020.pdf'
 #citation: 'Galib, A. H., Hossain, B. M. (2020, July). Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correlation Based Feature Elimination). In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering (pp.566-571).'
