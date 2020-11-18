@@ -22,8 +22,8 @@ author_profile: true
 > This research project tries to reduce search space in code smells detection using a novel metric called - NCPC, while maintaining the performance of code smells detection. Manuscript in Preparation. 
 
 <b>[4. ProtectMe: An Approach to Provide Audio Privacy in Real-time](http://galib19.github.io/projects/Protect_Me_2019)</b> <br> 
-> Team: Nishat Tasnim Niloy, Abu Rafe Md Jamil, <b>Asadullah Hill Galib</b>, Naushin Nower, and Mohammad Shoyaib.
->
+Team: Nishat Tasnim Niloy, Abu Rafe Md Jamil, <b>Asadullah Hill Galib</b>, Naushin Nower, and Mohammad Shoyaib.
+<br> 
 > This research project ensures audio communication with privacy in real-time using a modification algorithm. Manuscript in Preparation.
 
 # Academic/Professional Projects: 
