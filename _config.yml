@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/galib19/"
+  linkedin         : "http://www.linkedin.com/in/galib19"
   orcid            : "https://orcid.org/0000-0002-0686-4876"
   pinterest        :
   soundcloud       :
@@ -181,6 +181,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  education:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -234,6 +237,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # education
+  - scope:
+      path: ""
+      type: education
     values:
       layout: single
       author_profile: true
