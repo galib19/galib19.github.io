@@ -5,7 +5,7 @@ author_profile: true
 ---
 # Research Projects: 
 <br>
-<b>[1. Pre-birth Factors in the Early Assessment of Child Mortality using Machine Learning Techniques)](http://galib19.github.io/projects/ChildMortality2019)</b> <br> 
+<b>[1. Pre-birth Factors in the Early Assessment of Child Mortality using Machine Learning Techniques](http://galib19.github.io/projects/ChildMortality2019)</b> <br> 
 >Team: <b>Asadullah Hill Galib</b> and B M Mainul Hossain.
 > This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript in Preparation.
 
