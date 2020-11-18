@@ -31,9 +31,6 @@ Team: Nishat Tasnim Niloy, Abu Rafe Md Jamil, <b>Asadullah Hill Galib</b>, Naush
 <b>1. LifeBlood</b> <br> 
 > A GPS based blood donor finder android app which sorts out nearer blood donors across the map. In addition, a user rating system and profiling of donors are being implemented.
 <br>
-<b>1. LifeBlood</b> <br> 
-> A GPS based blood donor finder android app which sorts out nearer blood donors across the map. In addition, a user rating system and profiling of donors are being implemented.
-<br>
 <b>2. AutoPilot-Web</b> <br> 
 > A web-based digital transformation of BTS (Base transceiver station) management. Its purpose is to optimize and automate the existing network management system. 
 <br>
