@@ -1,9 +1,9 @@
 ---
 title: "Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correla-tion Based Feature Elimination)"
 collection: publications
-permalink: /publication/SigapiSEKE2020
+permalink: /publications/SigapiSEKE2020
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-07-19
+date: '2020-07-19'
 venue: 'Wyndham Pittsburgh University Center, Pittsburgh, USA'
 paperurl: 'http://galib19.github.io/files/SigAPI_SEKE_2020.pdf'
 citation: 'Galib, A. H., Hossain, B. M. (2020, July). Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correlation Based Feature Elimination). In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering (pp.566-571).'
