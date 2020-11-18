@@ -1,7 +1,7 @@
 ---
 title: "Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correla-tion Based Feature Elimination)"
 collection: publications
-permalink: /publication/SigAPI_SEKE_2020
+permalink: /publication/SigapiSEKE2020
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-07-19
 venue: 'Wyndham Pittsburgh University Center, Pittsburgh, USA'

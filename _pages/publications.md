@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correla-tion Based Feature Elimination)](http://galib19.github.io/publications/SigAPI_SEKE_2020)</b> <br> 
+<b>[Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correla-tion Based Feature Elimination)](http://galib19.github.io/publications/SigapiSEKE2020)</b> <br> 
 <b>Asadullah Hill Galib</b> and B M Mainul Hossain.
 <i>In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering (pp.  566-571)</i>. <b>SEKE 2020</b>.
 
 <b>[Review on Hybrid Analysis in Android Malware Detection](http://galib19.github.io/publications/Lit_Review_DUJASE_2020)</b> <br> 
 <b>Asadullah Hill Galib</b> and B M Mainul Hossain.
-<i>Dhaka University Journal of Applied Science & Engineering (DUJASE), Volume 5(1 & 2). Manuscript in press.</i>. <b>DUJASE 2020</b>.
+<i>Dhaka University Journal of Applied Science & Engineering (DUJASE), Volume 5 (1 & 2). Manuscript in press.</i>. <b>DUJASE 2020</b>.
 
 
 <b>[A Systematic Review on Hybrid Analysis using
@@ -36,4 +36,4 @@ Yaodong Yang\*, <b>Lantao Yu</b>\*, Yiwei Bai\*, Jun Wang, Weinan Zhang, Ying We
 
 
 
-[\* denotes equal contribution]
+<!-- [\* denotes equal contribution] -->
