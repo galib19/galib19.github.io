@@ -1,7 +1,7 @@
 ---
 title: "GodExpo: an automated god structure detection tool for Golang"
 collection: publications
-permalink: /publication/GodExpo_IWOR_2019
+permalink: /publications/GodExpo_IWOR_2019
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-5-28
 venue: 'Montréal, QC, Canada'

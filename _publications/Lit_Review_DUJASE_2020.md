@@ -1,7 +1,7 @@
 ---
 title: "A Review on Hybrid Analysis using Machine Learning for Android Malware"
 collection: publications
-permalink: /publication/Lit_Review_DUJASE_2020
+permalink: /publications/Lit_Review_DUJASE_2020
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 #date: '2020'
 venue: 'Journal'
