@@ -5,13 +5,11 @@ author_profile: true
 ---
 ## Technical Skills
 
-* Programming: Python, Java, C, C++, PHP, JavaScript, Assembly
-* Libraries: TensorFlow, React, Redux-Saga, jQuery
-* Database Management Systems: MySQL, Oracle, SQLite
-* Frameworks: React Native, Laravel, Selenium
-* Technologies and Methodologies: Git, agile, MVC, SRS, XAMPP, Postman
-* Project Management Applications: Jira, Trello, Desktime
-
+* Programming: Python, Java, PHP, JavaScript, C, C++, R, Octave, Assembly
+* Libraries: Scikit-learn, Pandas, React, Redux-Saga, jQuery
+* Database Management Systems: MySQL, Oracle, Firestore
+* Frameworks: React Native, Laravel, Selenium, MVC
+* Technologies and Methodologies: Linux, Git, Agile, Foritfy, SRS, XAMPP, Postman, Jira, Trello, Desktime
 
 
 <!-- 

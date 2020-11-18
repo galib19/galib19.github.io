@@ -7,7 +7,7 @@ author_profile: true
 ### PhD in Computer Science and Engineering 
 > Michigan State University (Fall 2020 - ) <br>
 >
-> Dhaka, Bangladesh
+> Michigan, USA
 
 ### MS in Software Engineering 
 > University of Dhaka (2019-2020) <br>
