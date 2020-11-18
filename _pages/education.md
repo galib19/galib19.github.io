@@ -4,20 +4,29 @@ permalink: /education/
 author_profile: true
 ---
 
+### PhD in Computer Science and Engineering 
+> Michigan State University (Fall 2020 - ) <br>
+>
+> Dhaka, Bangladesh
+
 ### MS in Software Engineering 
 > University of Dhaka (2019-2020) <br>
+>
 > Dhaka, Bangladesh
  
 ### BS in Software Engineering 
 > University of Dhaka (2015-2018) <br>
+>
 > Dhaka, Bangladesh
 
 ### Higher-Secondary School Certificate (HSC) 
 > Notre Dame College (2012-2014) <br>
+>
 > Dhaka, Bangladesh
 
 ### Secondary School Certificate (SSC) 
 > BAF Shaheen College, Kurmitola (2003-2012) <br>
+>
 > Dhaka, Bangladesh
 
 
