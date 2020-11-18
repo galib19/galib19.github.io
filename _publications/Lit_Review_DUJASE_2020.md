@@ -5,8 +5,10 @@ permalink: /publication/Lit_Review_DUJASE_2020
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 #date: '2020'
 venue: 'Journal'
-paperurl: 'http://galib19.github.io/files/Lit_Review_DUJASE_2020.pdf'
+#paperurl: 'http://galib19.github.io/files/Lit_Review_DUJASE_2020.pdf'
 citation: 'Galib, A. H., Hossain, B. M. (2020).  A Review on Hybrid Analysis using Machine Learning for Android Malware Detection. Dhaka University Journal of Applied Science Engineering (DUJASE), Volume 5(1 & 2).'
+
+[[PDF]](http://galib19.github.io/files/Lit_Review_DUJASE_2020.pdf)
 ---
 ## Abstract 
 
