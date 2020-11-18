@@ -5,28 +5,20 @@ author_profile: true
 ---
 
 ### MS in Software Engineering 
-<br> 
->University of Dhaka (2019-2020) <br>
->Dhaka, Bangladesh
+> University of Dhaka (2019-2020) 
+> Dhaka, Bangladesh
  
 ### BS in Software Engineering 
-<br> 
->University of Dhaka (2015-2018) <br>
->Dhaka, Bangladesh
-<br><br> 
+> University of Dhaka (2015-2018) 
+> Dhaka, Bangladesh
 
-<b>2. AutoPilot-Web</b> <br> 
-A web-based digital transformation of BTS (Base transceiver station) management. Its purpose is to optimize and automate the existing network management system. 
-<br><br> 
-<b>3. AutoPilot-Mobile</b> <br> 
-A mobile application (iOS and Android) for the digital transformation of BTS (Base transceiver station) management.
-<br><br> 
-<b>4. LogBook</b> <br> 
-A web-based application for personal task management including task manager, notes, attachments, reminders and synchronization.
-<br><br> 
-<b>5. Offline-Search-Engine</b> <br> 
-An Offline (file-folder) search engine for Linux and Windows operating systems.
-<br>
+### Higher-Secondary School Certificate (HSC) 
+> Notre Dame College (2012-2014)
+> Dhaka, Bangladesh
+
+### Secondary School Certificate (SSC) 
+> BAF Shaheen College, Kurmitola (2003-2012)
+> Dhaka, Bangladesh
 
 
 <!-- 
