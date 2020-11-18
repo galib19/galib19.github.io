@@ -6,29 +6,25 @@ author_profile: true
 # Research Projects: 
 <br>
 <b>[1. Pre-birth Factors in the Early Assessment of Child Mortality using Machine Learning Techniques](http://galib19.github.io/projects/ChildMortality2019)</b> <br> 
-<br>
-Team: <b>Asadullah Hill Galib</b> and B M Mainul Hossain.
-<br>
-> This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript in Preparation.
+>Team: <b>Asadullah Hill Galib</b> and B M Mainul Hossain.
+>
+>> This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript in Preparation.
 
 <b>[2. Predicting GitHub Issues Lifetime using Machine Learning and Topic Modeling (LDA)](http://galib19.github.io/projects/GithubIssuesLDA2020)</b> <br> 
-<br>
-Team: Syed Fatiul Huq, <b>Asadullah Hill Galib</b>, Abu Rafe Md. Jamil, and Ahmedul Kabir.
-<br>
-> This research project analyzes the characteristics and applicability of topic modeling (LDA) in GitHub Issues and predicting lifetime based on topic modeling (LDA) with machine learning techniques. Manuscript in Preparation.
+>Team: Syed Fatiul Huq, <b>Asadullah Hill Galib</b>, Abu Rafe Md. Jamil, and Ahmedul Kabir.
+>
+>> This research project analyzes the characteristics and applicability of topic modeling (LDA) in GitHub Issues and predicting lifetime based on topic modeling (LDA) with machine learning techniques. Manuscript in Preparation.
 
 
 <b>[3. Optimizing Search Space in Code Smells Detection using a Novel Metric](http://galib19.github.io/projects/SearchSpace2020)</b> <br> 
-<br>
-Team: Abu Rafe Md. Jamil, <b>Asadullah Hill Galib</b>, Md Nurul Ahad Tawhid, and Nadia Nahar.
-<br>
-> This research project tries to reduce search space in code smells detection using a novel metric called - NCPC, while maintaining the performance of code smells detection. Manuscript in Preparation. 
+>Team: Abu Rafe Md. Jamil, <b>Asadullah Hill Galib</b>, Md Nurul Ahad Tawhid, and Nadia Nahar.
+>
+>> This research project tries to reduce search space in code smells detection using a novel metric called - NCPC, while maintaining the performance of code smells detection. Manuscript in Preparation. 
 
 <b>[4. ProtectMe: An Approach to Provide Audio Privacy in Real-time](http://galib19.github.io/projects/Protect_Me_2019)</b> <br> 
-<br>
-Team: Nishat Tasnim Niloy, Abu Rafe Md Jamil, <b>Asadullah Hill Galib</b>, Naushin Nower, and Mohammad Shoyaib.
-<br> 
-> This research project ensures audio communication with privacy in real-time using a modification algorithm. Manuscript in Preparation.
+>Team: Nishat Tasnim Niloy, Abu Rafe Md Jamil, <b>Asadullah Hill Galib</b>, Naushin Nower, and Mohammad Shoyaib.
+> 
+>> This research project ensures audio communication with privacy in real-time using a modification algorithm. Manuscript in Preparation.
 
 # Academic/Professional Projects: 
 <br>
