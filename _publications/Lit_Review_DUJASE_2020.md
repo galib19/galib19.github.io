@@ -8,8 +8,9 @@ venue: 'Journal'
 #paperurl: 'http://galib19.github.io/files/Lit_Review_DUJASE_2020.pdf'
 citation: 'Galib, A. H., Hossain, B. M. (2020).  A Review on Hybrid Analysis using Machine Learning for Android Malware Detection. Dhaka University Journal of Applied Science Engineering (DUJASE), Volume 5(1 & 2).'
 
-[[PDF]](http://galib19.github.io/files/Lit_Review_DUJASE_2020.pdf)
+
 ---
+[[PDF]](http://galib19.github.io/files/Lit_Review_DUJASE_2020.pdf)
 ## Abstract 
 
 Nowadays Android is the world's most popular mobile operating system. Its
