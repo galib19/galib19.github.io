@@ -1,7 +1,7 @@
 # main links links
 main:
 
-  - title: "CV/Bio"
+  - title: "CV"
     url: /files/CV_Asadullah_Hill_Galib_Research.pdf
 
   - title: "Education"
@@ -19,10 +19,10 @@ main:
   - title: "Skills"
     url: /skills/  
 
-  - title: "Standardized Tests"
+  - title: "Test Scores"
     url: /standardized_test/        
 
-  - title: "Leadership Activities"
+  - title: "Leadership"
     url: /leadership/      
 
   - title: "Contact"
