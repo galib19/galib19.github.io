@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm pursuing my PhD in Computer Science at Michigan State University from Fall 2020. Currently, I'm looking for graduate research assistantship (GRA) opportunities.
+I'm pursuing my Ph.D. in Computer Science at Michigan State University from Fall 2020. Currently, I'm looking for graduate research assistantship (GRA) opportunities.
 
 I have completed my Master of Science (MS) and Bachelor of Science (BS)in Software Engineering from the Institute of Information Technology, University of Dhaka, Bangladesh. 
 
