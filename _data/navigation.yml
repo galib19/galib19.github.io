@@ -19,9 +19,14 @@ main:
   - title: "Skills"
     url: /skills/  
 
+  - title: "Standardized Tests"
+    url: /standardized_test/        
+
   - title: "Leadership Activities"
     url: /leadership/      
-    
+
+  - title: "Contact"
+    url: /contact/   
   
 
   # - title: "Talks"

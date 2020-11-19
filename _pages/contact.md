@@ -1,16 +1,20 @@
 ---
-title: "Skills"
-permalink: /skills/
+title: "Contact"
+permalink: /contact/
 author_profile: true
 ---
-## Technical Skills
+#### Email:
 
-* <b>Programming</b>: Python, Java, PHP, JavaScript, C, C++, R, Octave, Assembly
-* <b>Libraries</b>: Scikit-learn, Pandas, React, Redux-Saga, jQuery
-* <b>Database Management Systems</b>: MySQL, Oracle, Firestore
-* <b>Frameworks</b>: React Native, Laravel, Selenium, MVC
-* <b>Technologies and Methodologies</b>: Linux, Git, Agile, Foritfy, SRS, XAMPP, Postman, Jira, Trello, Desktime
+* <b>Institutional e-mail</b>: galibasa@msu.edu
+* <b>Personal e-mail</b>: asagalib19@gmail.com
 
+#### Mobile-No.:
+
+* <b>8801678044993</b>
+
+#### Address:
+
+* 52/3-c Shopnonir Tower, Balughat, Dhaka Cantonment, Dhaka-1206
 
 <!-- 
 <b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 

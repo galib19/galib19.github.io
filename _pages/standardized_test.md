@@ -1,15 +1,25 @@
 ---
-title: "Skills"
-permalink: /skills/
+title: "Standardized Tests"
+permalink: /standardized_test/
 author_profile: true
 ---
-## Technical Skills
+ 
+### GRE 
 
-* <b>Programming</b>: Python, Java, PHP, JavaScript, C, C++, R, Octave, Assembly
-* <b>Libraries</b>: Scikit-learn, Pandas, React, Redux-Saga, jQuery
-* <b>Database Management Systems</b>: MySQL, Oracle, Firestore
-* <b>Frameworks</b>: React Native, Laravel, Selenium, MVC
-* <b>Technologies and Methodologies</b>: Linux, Git, Agile, Foritfy, SRS, XAMPP, Postman, Jira, Trello, Desktime
+* <b>320</b>/340 
+    * Quantitative - <b>165</b>/170
+    * Verbal - <b>155</b>/170 
+    * Analytical Writing - <b>3.0</b>/6.0 
+    
+### TOEFL 
+
+* <b>102</b>/120 
+    * Reading - <b>29</b>/30
+    * Listening - <b>23</b>/30 
+    * Speaking - <b>24</b>/30 
+    * Writing - <b>26</b>/30 
+        
+    
 
 
 <!-- 
