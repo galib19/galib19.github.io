@@ -7,9 +7,9 @@ author_profile: true
 ### GRE 
 
 * <b>320</b>/340 
-    * Quantitative - <b>165</b>/170
-    * Verbal - <b>155</b>/170 
-    * Analytical Writing - <b>3.0</b>/6.0 
+    * Quantitative - <b>165</b>/170 (86 Percentile)
+    * Verbal - <b>155</b>/170 (68 Percentile)
+    * Analytical Writing - <b>3.0</b>/6.0 (15 Percentile)
     
 ### TOEFL 
 

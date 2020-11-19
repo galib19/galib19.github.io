@@ -13,6 +13,8 @@ author_profile: true
 > University of Dhaka (2019-2020) <br>
 >
 > Dhaka, Bangladesh
+>
+> Thesis: Significant Features Analysis For Android Malware Detection Using Machine Learning Techniques
  
 ### BS in Software Engineering 
 > University of Dhaka (2015-2018) <br>

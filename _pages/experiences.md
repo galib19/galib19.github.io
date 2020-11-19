@@ -22,7 +22,7 @@ author_profile: true
   * Supervisor: Dr. Yolanda Anderson, Dr. Marilyn Wulfekuhler, and Dr. Kevin Ohl
 * Institute of Information Technology, University of Dhaka: Short-course Instructor
     * Duration: 8 Months (August 2019 - March 2020)
-    * Duties: Teaching smart office program
+    * Duties: Teaching smart office programs, designing exam questions, assessing oral presentations. 
     * Supervisor: Lecturer Abdus Satter and Lecturer Kishan Kumar Ganguly
 
 
