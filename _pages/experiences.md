@@ -1,12 +1,12 @@
 ---
-title: "Education"
-permalink: /education/
+title: "Experiences"
+permalink: /experiences/
 author_profile: true
 ---
 
 ## Industry Experience
 
-* [Brain Station 23](https://brainstation-23.com/): Software Developer \& Executive Assistant of the CEO (Internship)
+* [Brain Station 23](https://brainstation-23.com/): Software Developer & Executive Assistant of the CEO (Internship)
   * Duration: 6 Months (Jan 2018 - Jun 2018)
   * Duties: 
     * Developed and maintained web application and mobile application, using Laravel Framework, PHP, MySQL, React-Native, Redux-Saga, Android Studio, Postman and proper version-controlling (Git, SourceTree). 

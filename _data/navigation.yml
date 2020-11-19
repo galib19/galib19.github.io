@@ -17,7 +17,10 @@ main:
     url: /experiences/
 
   - title: "Skills"
-    url: /skills/    
+    url: /skills/  
+
+  - title: "Leadership Activities"
+    url: /leadership/      
     
   
 
