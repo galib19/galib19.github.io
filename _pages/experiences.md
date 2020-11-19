@@ -6,7 +6,7 @@ author_profile: true
 
 ## Industry Experience
 
-* [Brain Station 23](https://brainstation-23.com/): Software Developer & Executive Assistant of the CEO (Internship)
+* <b>Software Developer & Executive Assistant of the CEO (Internship)</b>, [Brain Station 23](https://brainstation-23.com/)
   * Duration: 6 Months (Jan 2018 - Jun 2018)
   * Duties: 
     * Developed and maintained web application and mobile application, using Laravel Framework, PHP, MySQL, React-Native, Redux-Saga, Android Studio, Postman and proper version-controlling (Git, SourceTree). 
@@ -16,11 +16,11 @@ author_profile: true
 
 ## Teaching Experiences
 
-* Michigan State University (CSE): Graduate Teaching Assistant
-  * Duration: 3 Months (August 2020 - )
+* <b>Graduate Teaching Assistant</b>, Michigan State University (CSE)
+  * Duration: 3 Months (August 2020 - Present)
   * Duties: Coordinator (Section 1) and helproom teaching assistant of CSE 102: Algorithmic Thinking and Programming
   * Supervisor: Dr. Yolanda Anderson, Dr. Marilyn Wulfekuhler, and Dr. Kevin Ohl
-* Institute of Information Technology, University of Dhaka: Short-course Instructor
+* <b>Short-course Instructor</b>, Institute of Information Technology, University of Dhaka
     * Duration: 8 Months (August 2019 - March 2020)
     * Duties: Teaching smart office programs, designing exam questions, assessing oral presentations. 
     * Supervisor: Lecturer Abdus Satter and Lecturer Kishan Kumar Ganguly

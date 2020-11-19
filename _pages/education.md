@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ### PhD in Computer Science and Engineering 
-> Michigan State University (Fall 2020 - ) <br>
+> Michigan State University (Fall 2020 - Present) <br>
 >
 > Michigan, USA
 
