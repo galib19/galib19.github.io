@@ -6,8 +6,6 @@ author_profile: true
 
 * <b>Organizer</b>, 
     * First Software Industry-Academia Collaboration Session of Bangladesh in 2017 (with 10 leading companies)
-    * Seminar on the fourth industrial revolution
-    * Workshops on secured internet protocol and IT awareness for females
     * Boot Camp on technology for peace
     * Local Math Olympiad
 * <b>Vice President & Treasurer</b>, IIT Software Engineers' Community University of Dhaka
