@@ -6,15 +6,15 @@ author_profile: true
 
 ## Research Projects: 
 <br>
-<b>[1. Pre-birth Factors in the Early Assessment of Child Mortality using Machine Learning Techniques](http://galib19.github.io/projects/ChildMortality2019)</b> <br> 
->Team: <b>Asadullah Hill Galib</b>, Nadia Nahar, and B M Mainul Hossain.
->
->> This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript in Preparation.
+1. <b>[Pre-birth Factors in the Early Assessment of Child Mortality using Machine Learning Techniques](http://galib19.github.io/projects/ChildMortality2019)</b><br> 
+    >Team: <b>Asadullah Hill Galib</b>, Nadia Nahar, and B M Mainul Hossain.
+    >
+    >> This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript in Preparation.
 
-<b>[2. Predicting GitHub Issues Lifetime using Machine Learning and Topic Modeling (LDA)](http://galib19.github.io/projects/GithubIssuesLDA2020)</b> <br> 
->Team: Syed Fatiul Huq, <b>Asadullah Hill Galib</b>, Abu Rafe Md. Jamil, and Ahmedul Kabir.
->
->> This research project analyzes the characteristics and applicability of topic modeling (LDA) in GitHub Issues and predicting lifetime based on topic modeling (LDA) with machine learning techniques. Manuscript in Preparation.
+1. <b>[Predicting GitHub Issues Lifetime using Machine Learning and Topic Modeling (LDA)](http://galib19.github.io/projects/GithubIssuesLDA2020)</b> <br> 
+    >Team: Syed Fatiul Huq, <b>Asadullah Hill Galib</b>, Abu Rafe Md. Jamil, and Ahmedul Kabir.
+    >
+    >> This research project analyzes the characteristics and applicability of topic modeling (LDA) in GitHub Issues and predicting lifetime based on topic modeling (LDA) with machine learning techniques. Manuscript in Preparation.
 
 
 <b>[3. Optimizing Search Space in Code Smells Detection using a Novel Metric](http://galib19.github.io/projects/SearchSpace2020)</b> <br> 
@@ -32,16 +32,9 @@ author_profile: true
 <br>
 1. <b>[LifeBlood](https://github.com/galib19/LifeBlood)</b> <br> A GPS based blood donor finder android app which sorts out nearer blood donors across the map. In addition, a user rating system and profiling of donors are being implemented.<br><br> 
 1. <b>[AutoPilot-Web](https://github.com/galib19/AutoPilot-Web)</b> <br> A web-based digital transformation of BTS (Base transceiver station) management. Its purpose is to optimize and automate the existing network management system. <br><br> 
-
-<b>3. [AutoPilot-Mobile](https://github.com/galib19/AutoPilot-Android-App)</b> <br> 
-A mobile application (iOS and Android) for the digital transformation of BTS (Base transceiver station) management.
-<br><br> 
-<b>4. [LogBook](https://github.com/galib19/Logbook)</b> <br> 
-A web-based application for personal task management including task manager, notes, attachments, reminders and synchronization.
-<br><br> 
-<b>5. [Offline-Search-Engine](https://github.com/galib19/Offline-Search-Enginee)</b> <br> 
-An Offline (file-folder) search engine for Linux and Windows operating systems.
-<br>
+1. <b>[AutoPilot-Mobile](https://github.com/galib19/AutoPilot-Android-App)</b> <br> A mobile application (iOS and Android) for the digital transformation of BTS (Base transceiver station) management.<br><br> 
+1. <b>[LogBook](https://github.com/galib19/Logbook)</b> <br> A web-based application for personal task management including task manager, notes, attachments, reminders and synchronization.<br><br> 
+1. <b>[Offline-Search-Engine](https://github.com/galib19/Offline-Search-Enginee)</b> <br> An Offline (file-folder) search engine for Linux and Windows operating systems.<br>
 
 
 <!-- 
