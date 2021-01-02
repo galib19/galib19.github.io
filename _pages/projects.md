@@ -30,7 +30,7 @@ author_profile: true
 
 ## Academic/Professional Projects: 
 <br>
-<b>1. LifeBlood</b> <br> 
+<b>1. [LifeBlood](https://github.com/galib19/LifeBlood)</b> <br> 
 A GPS based blood donor finder android app which sorts out nearer blood donors across the map. In addition, a user rating system and profiling of donors are being implemented.
 <br><br> 
 <b>2. AutoPilot-Web</b> <br> 
