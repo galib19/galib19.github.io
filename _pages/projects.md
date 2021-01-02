@@ -31,21 +31,18 @@ author_profile: true
 ## Academic/Professional Projects: 
 <br>
 <ol>
-<li><b>[LifeBlood](https://github.com/galib19/LifeBlood)</b> <br> 
-A GPS based blood donor finder android app which sorts out nearer blood donors across the map. In addition, a user rating system and profiling of donors are being implemented.</li>
-<br><br> 
-<li><b>[AutoPilot-Web](https://github.com/galib19/AutoPilot-Web)</b> <br> 
-A web-based digital transformation of BTS (Base transceiver station) management. Its purpose is to optimize and automate the existing network management system. </li>
-<br><br> 
-<li><b>[AutoPilot-Mobile](https://github.com/galib19/AutoPilot-Android-App)</b> <br> 
-A mobile application (iOS and Android) for the digital transformation of BTS (Base transceiver station) management.</li>
-<br><br> 
-<li><b>[LogBook](https://github.com/galib19/Logbook)</b> <br> 
-A web-based application for personal task management including task manager, notes, attachments, reminders and synchronization.</li>
-<br><br> 
-<li><b>[Offline-Search-Engine](https://github.com/galib19/Offline-Search-Enginee)</b> <br> 
-An Offline (file-folder) search engine for Linux and Windows operating systems.</li>
-<br>
+<li><b>[LifeBlood](https://github.com/galib19/LifeBlood)</b></li> 
+    <br> 
+    A GPS based blood donor finder android app which sorts out nearer blood donors across the map. In addition, a user rating system and profiling of donors are being implemented.
+    <br><br> 
+<li><b>[AutoPilot-Web](https://github.com/galib19/AutoPilot-Web)</b> </li>
+    <br> A web-based digital transformation of BTS (Base transceiver station) management. Its purpose is to optimize and automate the existing network management system. <br><br> 
+<li><b>[AutoPilot-Mobile](https://github.com/galib19/AutoPilot-Android-App)</b> </li>
+    <br> A mobile application (iOS and Android) for the digital transformation of BTS (Base transceiver station) management.<br><br> 
+<li><b>[LogBook](https://github.com/galib19/Logbook)</b></li> 
+    <br> A web-based application for personal task management including task manager, notes, attachments, reminders and synchronization <br><br> 
+<li><b>[Offline-Search-Engine](https://github.com/galib19/Offline-Search-Enginee)</b></li> 
+    <br> An Offline (file-folder) search engine for Linux and Windows operating systems.</li><br>
 </ol>
 
 <!-- 
