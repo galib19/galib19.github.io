@@ -30,22 +30,23 @@ author_profile: true
 
 ## Academic/Professional Projects: 
 <br>
-<b>1. [LifeBlood](https://github.com/galib19/LifeBlood)</b> <br> 
-A GPS based blood donor finder android app which sorts out nearer blood donors across the map. In addition, a user rating system and profiling of donors are being implemented.
+<ol>
+<li><b>[LifeBlood](https://github.com/galib19/LifeBlood)</b> <br> 
+A GPS based blood donor finder android app which sorts out nearer blood donors across the map. In addition, a user rating system and profiling of donors are being implemented.</li>
 <br><br> 
-<b>2. [AutoPilot-Web](https://github.com/galib19/AutoPilot-Web)</b> <br> 
-A web-based digital transformation of BTS (Base transceiver station) management. Its purpose is to optimize and automate the existing network management system. 
+<li><b>[AutoPilot-Web](https://github.com/galib19/AutoPilot-Web)</b> <br> 
+A web-based digital transformation of BTS (Base transceiver station) management. Its purpose is to optimize and automate the existing network management system. </li>
 <br><br> 
-<b>3. [AutoPilot-Mobile](https://github.com/galib19/AutoPilot-Android-App)</b> <br> 
-A mobile application (iOS and Android) for the digital transformation of BTS (Base transceiver station) management.
+<li><b>[AutoPilot-Mobile](https://github.com/galib19/AutoPilot-Android-App)</b> <br> 
+A mobile application (iOS and Android) for the digital transformation of BTS (Base transceiver station) management.</li>
 <br><br> 
-<b>4. [LogBook](https://github.com/galib19/Logbook)</b> <br> 
-A web-based application for personal task management including task manager, notes, attachments, reminders and synchronization.
+<li><b>[LogBook](https://github.com/galib19/Logbook)</b> <br> 
+A web-based application for personal task management including task manager, notes, attachments, reminders and synchronization.</li>
 <br><br> 
-<b>5. [Offline-Search-Engine](https://github.com/galib19/Offline-Search-Enginee)</b> <br> 
-An Offline (file-folder) search engine for Linux and Windows operating systems.
+<li><b>[Offline-Search-Engine](https://github.com/galib19/Offline-Search-Enginee)</b> <br> 
+An Offline (file-folder) search engine for Linux and Windows operating systems.</li>
 <br>
-
+</ol>
 
 <!-- 
 <b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 
