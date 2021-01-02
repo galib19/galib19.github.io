@@ -6,15 +6,15 @@ author_profile: true
 
 ## Research Projects: 
 <br>
-1. <b>[Pre-birth Factors in the Early Assessment of Child Mortality using Machine Learning Techniques](http://galib19.github.io/projects/ChildMortality2019)</b><br> 
+1. <b>[Pre-birth Factors in the Early Assessment of Child Mortality using Machine Learning Techniques](http://galib19.github.io/projects/ChildMortality2019)</b><br> <br>
     Team: <b>Asadullah Hill Galib</b>, Nadia Nahar, and B M Mainul Hossain.
-    <br>
-    This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript in Preparation.
+    <br><br>
+    This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript in Preparation. [(Show Details...)](http://galib19.github.io/projects/ChildMortality2019)
 
-1. <b>[Predicting GitHub Issues Lifetime using Machine Learning and Topic Modeling (LDA)](http://galib19.github.io/projects/GithubIssuesLDA2020)</b> <br> 
+1. <b>[Predicting GitHub Issues Lifetime using Machine Learning and Topic Modeling (LDA)](http://galib19.github.io/projects/GithubIssuesLDA2020)</b> <br> <br>
     Team: Syed Fatiul Huq, <b>Asadullah Hill Galib</b>, Abu Rafe Md. Jamil, and Ahmedul Kabir.
-    <br>
-    This research project analyzes the characteristics and applicability of topic modeling (LDA) in GitHub Issues and predicting lifetime based on topic modeling (LDA) with machine learning techniques. Manuscript in Preparation.
+    <br><br>
+    This research project analyzes the characteristics and applicability of topic modeling (LDA) in GitHub Issues and predicting lifetime based on topic modeling (LDA) with machine learning techniques. Manuscript in Preparation.[(Show Details...)](http://galib19.github.io/projects/GithubIssuesLDA2020)
 
 
 <b>[3. Optimizing Search Space in Code Smells Detection using a Novel Metric](http://galib19.github.io/projects/SearchSpace2020)</b> <br> 
