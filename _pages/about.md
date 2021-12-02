@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm pursuing my Ph.D. in Computer Science at Michigan State University from Fall 2020. Currently, I'm working as a Graduate Research Assistant (GRA) in [DMiner Lab @ MSU](https://www.egr.msu.edu/~ptan/dminer/) under the supervision of [Dr. Pang-Ning Tan](https://www.cse.msu.edu/~ptan/). My research interests lie deep learning, Extreme Value Theory (EVT), tipping point in non-linear dynamics. Specifically, I am working on developing novel deep learning algorithm for spatio-temporal and sequential data with the incorporation of Extreme Value Theory (EVT) and tipping point analysis in non-linear dynamics.  
+I'm pursuing my Ph.D. in Computer Science at Michigan State University from Fall 2020. Currently, I'm working as a Graduate Research Assistant (GRA) in [DMiner Lab @ MSU](https://www.egr.msu.edu/~ptan/dminer/) under the supervision of [Dr. Pang-Ning Tan](https://www.cse.msu.edu/~ptan/). My research interests lie in deep learning, spatio-temporal analysis, Extreme Value Theory (EVT), tipping point in non-linear dynamics. Specifically, I am working on developing novel deep learning algorithm for spatio-temporal and sequential data with the incorporation of Extreme Value Theory (EVT) and tipping point analysis in non-linear dynamics.  
 
 Previously, I have completed my Master of Science (MSc.) and Bachelor of Science (BSc.) in Software Engineering from the Institute of Information Technology, University of Dhaka, Bangladesh. 
 
