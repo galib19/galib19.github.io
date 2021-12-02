@@ -1,5 +1,5 @@
 ---
-title: "Analyzing co-authorship network: Centrality Measure, Link Prediction, and Community Detection"
+title: "LifeBlood"
 collection: projects
 permalink: /projects/LifeBlood2018
 excerpt: 'This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript in Preparation.'
