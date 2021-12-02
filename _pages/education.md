@@ -6,17 +6,23 @@ author_profile: true
 
 ### Ph.D. in Computer Science and Engineering 
 > Michigan State University (Fall 2020 - Present) <br>
->
+> 
 > Michigan, USA
+>
+> Advisor: [Dr. Pang-Ning Tan](https://www.cse.msu.edu/~ptan/)
+> 
+> Domain: Deep Learning, Spatio-Temporal Analysis, Extreme Value Theory
+>
+> Lab: [DMiner Lab @ MSU](https://www.egr.msu.edu/~ptan/dminer/)
 
-### MS in Software Engineering 
+### MSc. in Software Engineering 
 > University of Dhaka (2019-2020) <br>
 >
 > Dhaka, Bangladesh
 >
 > Thesis: Significant Features Analysis For Android Malware Detection Using Machine Learning Techniques
  
-### BS in Software Engineering 
+### BSc. in Software Engineering 
 > University of Dhaka (2015-2018) <br>
 >
 > Dhaka, Bangladesh
