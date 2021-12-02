@@ -5,11 +5,12 @@ author_profile: true
 ---
 ## Technical Skills
 
-* <b>Programming</b>: Python, Java, PHP, JavaScript, C, C++, R, Octave, Assembly
-* <b>Libraries</b>: Scikit-learn, Pandas, React, Redux-Saga, jQuery
-* <b>Database Management Systems</b>: MySQL, Oracle, Firestore
-* <b>Frameworks</b>: React Native, Laravel, Selenium, MVC
+* <b>Programming Languages</b>: Python, Java, C, C++, PHP, JavaScript, Assembly
+* <b>Machine Learning & Deep Learning</b>: PyTorch, Keras, TensorFlow, scikit-learn, pandas, NumPy, MATLAB
+* <b>Frameworks and Libraries</b>: React, Redux-Saga, jQuery, React Native, Laravel, Selenium, MVC
 * <b>Technologies and Methodologies</b>: Linux, Git, Agile, Foritfy, SRS, XAMPP, Postman, Jira, Trello, Desktime
+* <b>Database Management Systems</b>: MySQL, Oracle, Firestore
+
 
 
 <!-- 

@@ -5,10 +5,12 @@ author_profile: true
 ---
 
 * <b>Organizer</b>, 
-    * First Software Industry-Academia Collaboration Session of Bangladesh in 2017 (with 10 leading companies)
+    * First Software Industry-Academia Collaboration Session in  Bangladesh with 10 leading companies (2017)
     * Boot Camp on technology for peace
+    * Workshops on secured internet protocol and IT awareness for females
+    * Seminar on the fourth industrial revolution
     * Local Math Olympiad
-* <b>Vice President & Treasurer</b>, IIT Software Engineers' Community University of Dhaka
+* <b>Vice President (2017) & Treasurer (2018)</b>, IIT Software Engineers' Community University of Dhaka
 * <b>Editor & Author</b>, [Shoshikkha](http://shoshikkha.com/) - A web-based knowledge platform in Bangla
 * <b>Founding Member</b>, Innovation, Creativity & Entrepreneurship -ICE Center, University of Dhaka
 * <b>Co-founder</b>, ASMSIF (Association for  Spreading Mathematical and Scientific Intelligence with Fun

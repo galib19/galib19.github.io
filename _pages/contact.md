@@ -6,15 +6,15 @@ author_profile: true
 #### Email:
 
 * <b>Institutional e-mail</b>: galibasa@msu.edu
-* <b>Personal e-mail</b>: asagalib19@gmail.com
+* <b>Personal e-mail</b>: asagalib19@gmail.com (preferred)
 
 #### Mobile-No.:
 
-* <b>8801678044993</b>
+* <b>+1-414-242-0786</b>
 
 #### Address:
 
-* 52/3-c Shopnonir Tower, Balughat, Dhaka Cantonment, Dhaka-1206
+* 2733 Senate Drive, Lansing, MI 48912
 
 <!-- 
 <b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 
