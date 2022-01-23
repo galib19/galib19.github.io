@@ -13,7 +13,7 @@ This is the course project of CSE 803: Computer Vision (Fall 2021) at Michigan S
 
 The goal of this project is to generate colored images from
 sketches using a generative model. Conditional GAN-based
-architecture is incorporated to accomplish the goal. Basically, this project is motivated by the renowned paper -- [Image-to-image translation with conditional adversarial networks (Isola et al.)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf). The architecture and guidelines suggested by the the paper is incorporated in to this project.  
+architecture is incorporated to accomplish the goal. Basically, this project is motivated by the renowned CVPR 2017 paper -- [Image-to-image translation with conditional adversarial networks (Isola et al.)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf). The architecture and guidelines suggested by the the paper is incorporated into this project.  
  
 Specifically, this project aims at generating images from
 edges/sketches. Given, edge image representation and
