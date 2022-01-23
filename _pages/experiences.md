@@ -11,7 +11,7 @@ author_profile: true
   * Duties: 
     * Developed and maintained web application and mobile application, using Laravel Framework, PHP, MySQL, React-Native, Redux-Saga, Android Studio, Postman and proper version-controlling (Git, SourceTree). 
     * Carried out comparative analysis (performance, ease of development, feature analysis) of two e-commerce frameworks: nopCommerce and Magento. 
-    * Reviewed an existing system for updates and enhancement. 
+    * Analyzed requirement specification and design of an existing system for re-engineering. 
   * Supervisor: Raisul Kabir, CEO (Brain Station 23)
 
 ## Teaching Experiences
