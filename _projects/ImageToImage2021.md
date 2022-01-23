@@ -1,21 +1,28 @@
 ---
-title: "Analyzing co-authorship network: Centrality Measure, Link Prediction, and Community Detection"
+title: "Image-to-Image Translation using Conditional GAN"
 collection: projects
-permalink: /projects/AnalyzingCoauthorship2020
-excerpt: 'This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript in Preparation.'
-#date: '2019-06-03'
-#venue: 'In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering, 2020 (SEKE 2020)'
-#paperurl: 'http://galib19.github.io/files/SigAPI_SEKE_2020.pdf'
-#citation: 'Galib, A. H., Hossain, B. M. (2020, July). Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correlation Based Feature Elimination). In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering (pp.566-571).'
+permalink: /projects/ImageToImage2021
+
 
 
 ---
 
-[[Github]](https://github.com/galib19/Analyzing-co-authorship-network-centrality-measure-link-prediction-community-detection)
+[[Github]](https://github.com/galib19/Image-to-Image-Translation-using-Conditional-GAN)
 
-This is the course project of CSE 891: Computational Foundations in AI and Machine Learning (Fall 2020) at Michigan State University. 
+This is the course project of CSE 891 (Fall 2020) at Michigan State University. 
 
-This project aims at analyzing a network of co-authorship relations between researchers (i.e., those in the top-300 highest hindex according to Google scholar and have collaborated at least once with each other). It includes network creation from XML data, data exploration, centrality measure using degree centrality, eigenvalue centrality, and local clustering coefficient. Also, it predicts missing links from the original network using Logistic Regression. Finally, it detects a set of connected components (communities) using a K-means clustering based community detection algorithm. The distinct parts of this project:  
+Image-to-image translation is a popular and growing
+field in computer vision that deals with many sorts of mapping between an input image and an output image. This
+field is booming currently thanks to the incorporation of
+deep learning techniques, particularly generative modeling
+techniques. It has a variety of applications, such as image synthesis, segmentation, style transfer, restoration, and
+pose estimation, etc. In this project, edge-to-image - an
+application of image-to-image translation will be explored.
+The goal of this project is to generate colored images from
+sketches using a generative model. Conditional GAN-based
+architecture is incorporated to accomplish the goal.
+
+ The distinct parts of this project:  
 
 ## Network data creation 
 
