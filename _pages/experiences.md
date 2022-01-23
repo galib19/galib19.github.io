@@ -17,10 +17,10 @@ author_profile: true
 ## Teaching Experiences
 
 * <b>Graduate Teaching Assistant</b>, Michigan State University (CSE)
-  * Duration: 15 Months - Fall 2020, Spring 2021, and Fall 2021 (August 2020 - December 2020)
-  * Course: CSE 102: Algorithmic Thinking and Programming" (using Python)
+  * Duration: 15 Months - Fall 2020, Spring 2021, and Fall 2021 (August 2020 - December 2021)
+  * Course: CSE 102: Algorithmic Thinking and Programming (using Python)
   * Role: Coordinator (Section 1 in Fall 2020: 89 students, Section 36 in Spring 2021: 150 students), Class Lead (Section 10 in Fall 2021: 30 students) and help room teaching assistant 
-  * Responsibilities: Leading and taking two 1.5-hours class sessions a week including labs of 240+ students, managing cohorts, proctoring exams, grading assignments, and serving help room sessions. 
+  * Responsibilities: Leading and taking two 1.5-hours class sessions a week including labs, managing cohorts, proctoring exams, grading assignments, and serving help room sessions. 
   * Supervisor: Dr. Yolanda Anderson, Dr. Marilyn Wulfekuhler, and Dr. Kevin Ohl
 * <b>Short-course Instructor</b>, Institute of Information Technology, University of Dhaka
     * Duration: 8 Months (August 2019 - March 2020)
