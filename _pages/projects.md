@@ -26,7 +26,6 @@ author_profile: true
 
 ## Academic/Professional Projects: 
 <br>
-Image-to-Image Translation
 
 1. <b>[Image-to-Image Translation using Conditional GAN](http://galib19.github.io/projects/ImageToImage2021)</b> <br> The goal of this project is to generate colored images from
 sketches using a generative model. Conditional GAN-based
