@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>DeepExtrema: A Deep Learning Approach for Forecasting Block Maxima in Time Series Data</b> <br> 
+<b>[DeepExtrema: A Deep Learning Approach for Forecasting Block Maxima in Time Series Data](https://arxiv.org/abs/2205.02441)</b> <br> 
 <b>Asadullah Hill Galib</b>, Andrew McDonald, Tyler Wilson, Lifeng Luo, and Pang-Ning Tan.
 <i>Manuscript in Press.</i> 
 <i>In Proceedings of the the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence</i>. <b>IJCAI 2022</b>.
