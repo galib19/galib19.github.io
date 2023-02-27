@@ -10,7 +10,7 @@ author_profile: true
 <i>In Proceedings of the the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence</i>. <b>IJCAI 2022</b>.
 
 
-<b>[Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correla-tion Based Feature Elimination)](http://galib19.github.io/publications/SigapiSEKE2020)</b> <br> 
+<b>[Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correla-tion Based Feature Elimination)](https://jase.du.ac.bd/uploads/articles/202051%20&%202/6362a17312e83.pdf)</b> <br> 
 <b>Asadullah Hill Galib</b> and B M Mainul Hossain.
 <i>In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering (pp.  566-571)</i>. <b>SEKE 2020</b>.
 
