@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-### Equal contribution
+### *Equal contribution
 <br>
 - <b>Galib, A. H.</b>, Tan, P. N. & Luo, L. (2023, Feb.). SimEXT: Enhancing Time Series Forecasting of Extreme Values via Self-supervised Representation Learning. Manuscript submitted to <b>KDD 2023</b>.
 - <b>Galib, A. H.</b>, McDonald, T., Tan, P. N. & Luo, L. (2023, Jan.). Self-Recover: Forecasting Block Maxima in Time Series from Predictors with Disparate Temporal Coverage using Self-Supervised Learning. Manuscript submitted to <b>IJCAI 2023</b>.
@@ -12,12 +12,12 @@ author_profile: true
 - Cullen*, L., <b>Galib*, A. H.</b>, Smith*, A. W., Varshney*, D., Brown, E., Chi, P. J., ... & Svoboda, F. (2022, Dec.). Open-Source Data Pipelines and Statistical Tool for Studying Pre-Seismic and Post-Seismic Disturbances in the Ionosphere and Geomagnetic Field. In <b>AGU</b> Fall Meeting 2022. 
 - Cullen*, L., <b>Galib*, A. H.</b>, Smith, A. W., Varshney, D., Brown, E., Chi, P. J., ... & Svoboda, F. (2022, Dec.). Comprehensive Statistical Analysis of Ionospheric and Geomagnetic Signatures Before and After Earthquakes. In <b>AGU</b> Fall Meeting 2022.  
 - Varshney*, D., Cullen*, L., <b>Galib*, A. H.</b>, Smith, A. W., Brown, E., Chi, P. J., ... & Svoboda, F. (2022, Dec.). Multimodal Machine Learning for Earthquake Identification and Forecasting. In <b>AGU</b> Fall Meeting 2022.
-- Wilson, T., McDonald, A., <b>Galib, A. H.</b>, Luo, L., & Tan, P. N. (2022, Aug.). Beyond Point Prediction: Capturing Zero-Inflated \& Heavy-Tailed Spatiotemporal Data with Deep Extreme Mixture Models. In Proceedings of the 28th ACM <b>SIGKDD 2022</b> Conference on Knowledge Discovery and Data Mining (pp. 2020-2028).
-- <b>Galib, A. H.</b>, McDonald, A., Wilson, T., Luo, L., & Tan, P. N. (2022, Jul.). DeepExtrema: A Deep Learning Approach for Forecasting Block Maxima in Time Series Data. In Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, <b>IJCAI 2022</b> (pp. 2980-2986).
+- Wilson, T., McDonald, A., <b>Galib, A. H.</b>, Luo, L., & Tan, P. N. (2022, Aug.). Beyond Point Prediction: Capturing Zero-Inflated \& Heavy-Tailed Spatiotemporal Data with Deep Extreme Mixture Models. In Proceedings of the 28th ACM <b>SIGKDD 2022</b> Conference on Knowledge Discovery and Data Mining (pp. 2020-2028). [PDF]()
+- <b>Galib, A. H.</b>, McDonald, A., Wilson, T., Luo, L., & Tan, P. N. (2022, Jul.). DeepExtrema: A Deep Learning Approach for Forecasting Block Maxima in Time Series Data. In Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, <b>IJCAI 2022</b> (pp. 2980-2986). [PDF]()
 - <b>Galib, A. H.</b>, & Bashyal, B. (2022, May.). On the Susceptibility and Robustness of Time Series Models through Adversarial Attack and Defense. [PDF](https://arxiv.org/pdf/2301.03703.pdf)  
 - Wilson, T., Tan P., Luo, L., & <b>Galib, A. H.</b> (2021, Dec.). Deep Learning With Extreme Value Theory for Modeling Precipitation Events. In <b>AGU</b> Fall Meeting Abstracts, vol. 2021, pp. A15Q-07. 
-- <b>Galib, A. H.</b>, & Hossain, B. M. (2020, Jul.). Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correlation Based Feature Elimination). In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering <b>(SEKE 2020)</b> (pp.  566-571).
-- <b>Galib, A. H.</b>, & Hossain, B. M. (2019, Dec.). A Systematic Review on Hybrid Analysis using Machine Learning for Android Malware Detection. In 2019 2nd International Conference on Innovation in Engineering and Technology <b>(ICIET 2019)</b>. 
-- <b>Galib, A. H.</b>, & Hossain, B. M. (2020, Jul.). A Review on Hybrid Analysis using Machine Learning for Android Malware Detection. In Dhaka University Journal of Applied Science and Engineering <b>(DUJASE)</b>, Volume 5, Issue 1\&2, pp. 49-55. 
-- Yasir, R. M., Asad, M., <b>Galib, A. H.</b>, Ganguly, K. K., & Siddik, M. S. (2019, May). GodExpo: an automated god structure detection tool for Golang. In Proceedings of the 3rd International Workshop on Refactoring <b>(IWOR 2019)</b> (pp. 47-50). IEEE.
+- <b>Galib, A. H.</b>, & Hossain, B. M. (2020, Jul.). Significant API Calls in Android Malware Detection (Using Feature Selection Techniques and Correlation Based Feature Elimination). In Proceedings of the 32nd International Conference on Software Engineering Knowledge Engineering <b>(SEKE 2020)</b> (pp.  566-571). [PDF]()
+- <b>Galib, A. H.</b>, & Hossain, B. M. (2019, Dec.). A Systematic Review on Hybrid Analysis using Machine Learning for Android Malware Detection. In 2019 2nd International Conference on Innovation in Engineering and Technology <b>(ICIET 2019)</b>. [PDF]()
+- <b>Galib, A. H.</b>, & Hossain, B. M. (2020, Jul.). A Review on Hybrid Analysis using Machine Learning for Android Malware Detection. In Dhaka University Journal of Applied Science and Engineering <b>(DUJASE)</b>, Volume 5, Issue 1\&2, pp. 49-55. [PDF]()
+- Yasir, R. M., Asad, M., <b>Galib, A. H.</b>, Ganguly, K. K., & Siddik, M. S. (2019, May). GodExpo: an automated god structure detection tool for Golang. In Proceedings of the 3rd International Workshop on Refactoring <b>(IWOR 2019)</b> (pp. 47-50). IEEE. [PDF]()
 - <b>Galib, A. H.</b>, Nahar, N., & Hossain, B. M. (2020). The Influences of Pre-birth Factors in Early Assessment of Child Mortality using Machine Learning Techniques. [PDF](https://arxiv.org/ftp/arxiv/papers/2011/2011.09536.pdf)
