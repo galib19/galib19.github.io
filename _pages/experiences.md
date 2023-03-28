@@ -5,8 +5,13 @@ author_profile: true
 ---
 
 ### Researcher (Internship) 
-#### [Frontier Development Lab (FDL) 2022](https://frontierdevelopmentlab.org/fdl-2022) by  [NASA and the SETI Institute](https://science.msfc.nasa.gov/2022/07/29/participation-in-the-frontier-development-lab-fdl-2022-summer-challenge-kickoff/)
-#####  June 2022 - August 2022
+
+### at [Frontier Development Lab (FDL) 2022](https://frontierdevelopmentlab.org/fdl-2022) by  [NASA and the SETI Institute](https://science.msfc.nasa.gov/2022/07/29/participation-in-the-frontier-development-lab-fdl-2022-summer-challenge-kickoff/)
+
+####  June 2022 - August 2022
+
+***
+##### Responsibilities: 
  - Collaborated with a cross-disciplinary team on the NASA challenge: Seismic Insight from Geomagnetic and Ionospheric Data.
 - Carried out a statistical analysis which shows promising links between major earthquakes and ionospheric perturbations.
 - Developed the first machine learning-ready dataset and statistical tool comprising spatiotemporally varying precursory data sources for studying pre-seismic and post-seismic disturbances.
@@ -15,9 +20,13 @@ author_profile: true
 - Research outcomes: 3 AGU abstracts, 1 paper in NeurIPS 2022 workshop - ICBINB, 1 technical memo, and 1 NASA NTR.
 
 ### Graduate Research Assistant 
-#### [Michigan State University (CSE)](https://www.cse.msu.edu/)
+
+### [Michigan State University (CSE)](https://www.cse.msu.edu/)
+
 ##### January 2022 - Present
 
+***
+##### Responsibilities: 
 - Working at [DMiner Lab @ MSU](https://www.egr.msu.edu/~ptan/dminer/) under the supervision of [Dr. Pang-Ning Tan](https://www.cse.msu.edu/~ptan/).
 - Collaborating in the NSF supported project - [Prediction and Characterization of Extreme Events in Spatio-Temporal Data](http://www.cse.msu.edu/~ptan/project/xtreme/).
 - Developing novel deep learning algorithms addressing extreme events within spatio-temporal and time series data.
