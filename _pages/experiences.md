@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ### Researcher (Internship), [Frontier Development Lab (FDL)](https://frontierdevelopmentlab.org/fdl-2022) by  [NASA and the SETI Institute](https://science.msfc.nasa.gov/2022/07/29/participation-in-the-frontier-development-lab-fdl-2022-summer-challenge-kickoff/)
+<div align="right">###  June 2022 - August 2022 </div>
 ###  June 2022 - August 2022
 
 ***
