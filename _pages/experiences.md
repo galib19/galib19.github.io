@@ -17,8 +17,7 @@ Responsibilities:
 - Research outcomes: 3 AGU abstracts, 1 paper in NeurIPS 2022 workshop - ICBINB, 1 technical memo, and 1 NASA NTR.
 
 ### Graduate Research Assistant, [Michigan State University (CSE)](https://www.cse.msu.edu/)
-
-#### January 2022 - Present
+### January 2022 - Present
 
 ***
 Responsibilities: 
@@ -26,60 +25,34 @@ Responsibilities:
 - Collaborating in the NSF supported project - [Prediction and Characterization of Extreme Events in Spatio-Temporal Data](http://www.cse.msu.edu/~ptan/project/xtreme/).
 - Developing novel deep learning algorithms addressing extreme events within spatio-temporal and time series data.
 
-* <b>Software Developer & Executive Assistant of the CEO (Internship)</b>, [Brain Station 23](https://brainstation-23.com/)
-  * Duration: 6 Months (Jan 2018 - Jun 2018)
-  * Duties: 
-    * Developed and maintained web application and mobile application, using Laravel Framework, PHP, MySQL, React-Native, Redux-Saga, Android Studio, Postman and proper version-controlling (Git, SourceTree). 
-    * Carried out comparative analysis (performance, ease of development, feature analysis) of two e-commerce frameworks: nopCommerce and Magento. 
-    * Analyzed requirement specification and design of an existing system for re-engineering. 
-  * Supervisor: Raisul Kabir, CEO (Brain Station 23)
+### Graduate Teaching Assistant, [Michigan State University (CSE)](https://www.cse.msu.edu/)
+### August 2020 - December 2021
 
-### Teaching Experiences
+***
+Responsibilities:
+- Course: CSE 102: Algorithmic Thinking and Programming (Python), Fall 2020, Spring 2021, and Fall 2021
+- Role: Coordinator (Section 1 in Fall 2020: 89 students, Section 36 in Spring 2021: 150 students), Class Lead (Section 10 in Fall 2021: 30 students) and help room teaching assistant 
+- Responsibilities: Taking two 2-hours class sessions a week, managing cohorts, proctoring exams, grading assignments, and serving help room sessions. 
+- Supervisor: Dr. Yolanda Anderson, Dr. Marilyn Wulfekuhler, and Dr. Kevin Ohl
+- Note: This course follows the flipped classroom approach
 
-* <b>Graduate Teaching Assistant</b>, Michigan State University (CSE)
-  * Duration: 15 Months - Fall 2020, Spring 2021, and Fall 2021 (August 2020 - December 2021)
-  * Course: CSE 102: Algorithmic Thinking and Programming (using Python)
-  * Role: Coordinator (Section 1 in Fall 2020: 89 students, Section 36 in Spring 2021: 150 students), Class Lead (Section 10 in Fall 2021: 30 students) and help room teaching assistant 
-  * Responsibilities: Leading and taking two 1.5-hours class sessions a week including labs, managing cohorts, proctoring exams, grading assignments, and serving help room sessions. 
-  * Supervisor: Dr. Yolanda Anderson, Dr. Marilyn Wulfekuhler, and Dr. Kevin Ohl
-* <b>Short-course Instructor</b>, Institute of Information Technology, University of Dhaka
-    * Duration: 8 Months (August 2019 - March 2020)
-    * Duties: Teaching smart office programs, designing exam questions, assessing oral presentations. 
-    * Supervisor: Lecturer Abdus Satter and Lecturer Kishan Kumar Ganguly
+### Software Developer & Executive Assistant of the CEO (Internship), [Brain Station 23](https://brainstation-23.com/)
+### January 2018 - June 2018
 
-## Professional Experience Timeline
-2010-2012: Internship
-Role: Intern
-Company: XYZ Corporation
-Projects: Assisted in market research and product development for a new product line.
-2012-2014: Entry-level Position
-Role: Marketing Assistant
-Company: ABC Enterprises
-Projects: Assisted in creating marketing campaigns and managing social media platforms.
-2014-2016: Mid-level Position
-Role: Marketing Manager
-Company: DEF Solutions
-Projects: Developed and executed marketing strategies for various products and managed a team of marketing professionals.
-2016-2018: Entrepreneurial Pursuit
-Role: Co-Founder
-Company: GHI Ventures
-Projects: Co-founded a startup focused on developing a new e-commerce platform.
-2018-2020: Senior Position
-Role: Senior Marketing Manager
-Company: JKL Inc.
-Projects: Oversaw the development and execution of marketing strategies for various products and managed a team of marketing professionals.
-2020-Present: Freelancing
-Role: Freelance Marketing Consultant
-Projects: Provided marketing consulting services to various clients and developed marketing strategies for their products.
+***
+Responsibilities:
+- Developed and maintained web application and mobile application, using Laravel Framework, PHP, MySQL, React-Native, Redux-Saga, Android Studio, Postman and proper version-controlling (Git, SourceTree). 
+- Carried out comparative analysis (performance, ease of development, feature analysis) of two e-commerce frameworks: nopCommerce and Magento. 
+- Analyzed requirement specification and design of an existing system for re-engineering. 
+- Supervisor: Raisul Kabir, CEO (Brain Station 23)
 
+### Short-course Instructor, [Institute of Information Technology, University of Dhaka](http://www.iit.du.ac.bd/)
+### August 2019 - March 2020
 
-<!-- 
-<b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 
-Tianhe Yu\*, Garrett Thomas\*, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma.
-<i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.
+***
+Responsibilities:
+-Teaching smart office programs, designing exam questions, assessing oral presentations.  
 
-<b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
-Yaodong Yang\*, <b>Lantao Yu</b>\*, Yiwei Bai\*, Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>. -->
 
 
 

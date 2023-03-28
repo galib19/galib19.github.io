@@ -3,10 +3,10 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-### *Equal contribution
+### \* denotes equal contribution
 - <b>Galib, A. H.</b>, Tan, P. N. & Luo, L. (2023, Feb.). SimEXT: Enhancing Time Series Forecasting of Extreme Values via Self-supervised Representation Learning. Manuscript submitted to <b>KDD 2023</b>.
 - <b>Galib, A. H.</b>, McDonald, T., Tan, P. N. & Luo, L. (2023, Jan.). Self-Recover: Forecasting Block Maxima in Time Series from Predictors with Disparate Temporal Coverage using Self-Supervised Learning. Manuscript submitted to <b>IJCAI 2023</b>.
-- Cullen*, L., <b>Galib*, A. H.</b>, Smith*, A. W., Varshney*, D., Brown, E., Chi, P., ... & Svoboda, F. (2022, Dec.). Can We Forecast And Detect Earthquakes From Heterogeneous Multivariate Time Series Data? In I Can’t Believe It’s Not Better Workshop: Understanding Deep Learning Through Empirical Falsification. <b>(ICBINB@ NeurIPS 2022)</b>. [PDF](https://openreview.net/pdf?id=y0fs6PbGJWt)
+- Cullen\*, L., <b>Galib\*, A. H.</b>, Smith\*, A. W., Varshney\*, D., Brown, E., Chi, P., ... & Svoboda, F. (2022, Dec.). Can We Forecast And Detect Earthquakes From Heterogeneous Multivariate Time Series Data? In I Can’t Believe It’s Not Better Workshop: Understanding Deep Learning Through Empirical Falsification. <b>(ICBINB@ NeurIPS 2022)</b>. [PDF](https://openreview.net/pdf?id=y0fs6PbGJWt)
 - Cullen*, L., <b>Galib*, A. H.</b>, Smith*, A. W., Varshney*, D., Brown, E., Chi, P. J., ... & Svoboda, F. (2022, Dec.). Open-Source Data Pipelines and Statistical Tool for Studying Pre-Seismic and Post-Seismic Disturbances in the Ionosphere and Geomagnetic Field. In <b>AGU</b> Fall Meeting 2022. 
 - Cullen*, L., <b>Galib*, A. H.</b>, Smith, A. W., Varshney, D., Brown, E., Chi, P. J., ... & Svoboda, F. (2022, Dec.). Comprehensive Statistical Analysis of Ionospheric and Geomagnetic Signatures Before and After Earthquakes. In <b>AGU</b> Fall Meeting 2022.  
 - Varshney*, D., Cullen*, L., <b>Galib*, A. H.</b>, Smith, A. W., Brown, E., Chi, P. J., ... & Svoboda, F. (2022, Dec.). Multimodal Machine Learning for Earthquake Identification and Forecasting. In <b>AGU</b> Fall Meeting 2022.

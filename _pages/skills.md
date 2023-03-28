@@ -4,13 +4,13 @@ permalink: /skills/
 author_profile: true
 ---
 ## Technical Skills
+### \* denotes proficient
 
-* <b>Programming Languages</b>: Python, Java, C, C++, PHP, JavaScript, Assembly
-* <b>Machine Learning & Deep Learning</b>: PyTorch, Keras, TensorFlow, scikit-learn, pandas, NumPy, MATLAB
-* <b>Frameworks and Libraries</b>: React, Redux-Saga, jQuery, React Native, Laravel, Selenium, MVC
-* <b>Technologies and Methodologies</b>: Linux, Git, Agile, Foritfy, SRS, XAMPP, Postman, Jira, Trello, Desktime
-* <b>Database Management Systems</b>: MySQL, Oracle, Firestore
 
+* <b>Programming Languages</b>: Python\*, Java\*, C\*, C++, PHP, JavaScript, Assembly
+* <b>AI & Machine Learning</b>: PyTorch\*, PyTorch Lightning\*, SK-learn\*, Pandas\*, NumPy\*,  Matplotlib\*, Anaconda\*, MATLAB, Keras 
+* <b>Miscellaneous</b>: Android\*, GCP\*, MySQL, Oracle, SQLite, Firestore, React, jQuery, React Native, Laravel, Selenium, Git\*, Agile, MVC, SRS\*, Linux, XAMPP, Postman, Jira, Trello
+ 
 
 
 <!-- 
