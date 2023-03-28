@@ -11,7 +11,7 @@ author_profile: true
 >
 > Advisor: [Dr. Pang-Ning Tan](https://www.cse.msu.edu/~ptan/)
 > 
-> Domain: Deep Learning, Spatio-Temporal Analysis, Extreme Value Theory, Tipping Point Analysis in Non-linear Dynamics
+> Domain: Deep Learning, Self-supervised Learning, Time Series, Extreme Values, Seq2Seq, Spatio-Temporal Analysis 
 >
 > Lab: [DMiner Lab @ MSU](https://www.egr.msu.edu/~ptan/dminer/)
 

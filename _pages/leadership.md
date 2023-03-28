@@ -13,7 +13,7 @@ author_profile: true
 * <b>Vice President (2017) & Treasurer (2018)</b>, IIT Software Engineers' Community University of Dhaka
 * <b>Editor & Author</b>, [Shoshikkha](http://shoshikkha.com/) - A web-based knowledge platform in Bangla
 * <b>Founding Member</b>, Innovation, Creativity & Entrepreneurship -ICE Center, University of Dhaka
-* <b>Co-founder</b>, ASMSIF (Association for  Spreading Mathematical and Scientific Intelligence with Fun
+* <b>Co-founder</b>, ASMSIF (Association for  Spreading Mathematical and Scientific Intelligence with Fun)
 
 <!-- 
 <b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 

@@ -9,7 +9,7 @@ author_profile: true
 
 * <b>Programming Languages</b>: Python\*, Java\*, C\*, C++, PHP, JavaScript, Assembly
 * <b>AI & Machine Learning</b>: PyTorch\*, PyTorch Lightning\*, SK-learn\*, Pandas\*, NumPy\*,  Matplotlib\*, Anaconda\*, MATLAB, Keras 
-* <b>Miscellaneous</b>: Android\*, GCP\*, MySQL, Oracle, SQLite, Firestore, React, jQuery, React Native, Laravel, Selenium, Git\*, Agile, MVC, SRS\*, Linux, XAMPP, Postman, Jira, Trello
+* <b>Miscellaneous</b>: Android\*, GCP\*, MySQL, Oracle, SQLite, Firestore, React, jQuery, React Native, Laravel, Selenium, Git\*, Agile, MVC, SRS\*, Linux\*, XAMPP, Postman, Jira, Trello
  
 
 
