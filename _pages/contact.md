@@ -14,7 +14,7 @@ author_profile: true
 
 #### Address:
 
-* 2733 Senate Drive, Lansing, MI 48912
+* 31 Middlevale Rd, Apt 1578F, East Lansing, MI 48823
 
 <!-- 
 <b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 

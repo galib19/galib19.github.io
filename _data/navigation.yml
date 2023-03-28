@@ -10,23 +10,23 @@ main:
   - title: "Education"
     url: /education/    
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Projects"
-    url: /projects/  
-
   - title: "Experiences"
     url: /experiences/
 
   - title: "Skills"
     url: /skills/  
 
-  - title: "Test Scores"
-    url: /standardized_test/        
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /projects/  
 
   - title: "Leadership"
-    url: /leadership/      
+    url: /leadership/  
+
+  - title: "Test Scores"
+    url: /standardized_test/            
 
   - title: "Contact"
     url: /contact/   
