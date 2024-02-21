@@ -11,9 +11,9 @@ author_profile: true
 Responsibilities: 
  - Collaborated with a cross-disciplinary team on the NASA challenge: Seismic Insight from Geomagnetic and Ionospheric Data.
 - Carried out a statistical analysis which shows promising links between major earthquakes and ionospheric perturbations.
-- Developed the first machine learning-ready dataset and statistical tool comprising spatiotemporally varying precursory data sources for studying pre-seismic and post-seismic disturbances.
+- Created the first machine learning-ready dataset and statistical tool comprising spatiotemporally varying precursory data sources for studying pre-seismic and post-seismic disturbances.
 - Built machine learning models for forecasting and detecting earthquakes from heterogeneous multivariate time series data.
-- Developed a probabilistic model to learn the spatial variability of ionospheric observations around seismic locations.
+- Designed a probabilistic model to learn the spatial variability of ionospheric observations around seismic locations.
 - Research outcomes: 3 AGU abstracts, 1 paper in NeurIPS 2022 workshop - ICBINB, 1 technical memo, and 1 NASA NTR.
 
 ### Graduate Research Assistant, [Michigan State University (CSE)](https://www.cse.msu.edu/)

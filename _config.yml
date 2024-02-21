@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Asadullah Hill Galib"
   avatar           : "casual.jpg"
-  bio              : "Ph.D. Candidate, Computer Science and Engineering, Michigan State University. Specialization: Deep Learning, AI, Generative Modeling, Self-supervised Learning, Time Series, Seq2Seq."
+  bio              : "Ph.D. Candidate, Computer Science and Engineering, Michigan State University. Specialization: Deep Learning, AI, Forecasting, Generative Modeling, Representation Learning, Time Series and Spatiotemporal Data"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
