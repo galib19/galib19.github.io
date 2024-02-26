@@ -23,7 +23,9 @@ Prior to my doctoral studies, I earned my Master of Science (MSc.) and Bachelor 
 
 ## Machine Learning and AI Aveneues I have explored:
 
-**Notations:** **Bold Font:** Implemented from scratch; *Italic Font:* Adapted or Applied   
+**Notations:** <span style="color:blue">
+**Bold Font:** Implemented from scratch; *Italic Font:* Adapted or Applied   
+</span>
 
 **Source Notations:** C: Code; P: Paper; U: Under-review or construction  
 
