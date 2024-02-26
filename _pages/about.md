@@ -13,81 +13,63 @@ redirect_from:
 
 ***
 
-> ### Areas of machine learning and AI I have experience on: 
->   **Font Notations:** Bold: Implemented from scratch; Italic- Adapted/Utilized/Applied only;  
->   **Source Notations:** C: Code; P: Paper; U: Under-review or construction;  
-> - Time Series and Spatiotemporal Modeling: **Extreme event forecasting and classification, handling large-scale missing values, time series representation learning, conditional generation of time generation addressing extreme event, spatiotemporal modeling global climate**
-> - Generative AI: *DDPM*, *Conditional DDPM*, **Deep Convolutional GAN (DCGAN)**, TimeGAN, Beta-VAE, Conditional VAE
-> - NLP:	 Neural Machine Translation (Transformer-based), Word Embedding (GLoVe), Topic Modeling (LDA)
-> - Computer Vision:	 Semantic Segmentation 1 2, Image Colorization, Image to Image Translation (Conditional GAN), Image Filtering (Gaussian, Sobel, LoG), Image Stitching, Image Classification (ConvNets, ViT, Swin)
-> - Adversarial Machine Learning: Attacks: FGSM, BIM, PGD; Defense: Adversarial Training
-> - Representation Learning: Contrastive Learning, Denoising Auto-Encoder
-> - Supervised Learning:	Link Prediction, Ridge, Logistic Regression, Sparse, MLR, PCA, Feature Engineering
-> - Unsupervised Learning: Community Detection, PageRank
-Gaussian Mixture Model, Clustering, Centrality Measure
-
-***
-
 As a Ph.D. candidate in Computer Science specializing in Machine Learning, with a solid foundation in Software Engineering and a proven track record of multi-disciplinary research collaboration, I am committed to advancing knowledge through innovative contributions in AI. My experience and academic degrees present a unique blend of proficiency in deep learning, machine learning, statistics, and software engineering. 
 
 Currently, I am pursuing my Ph.D. in Computer Science and Engineering at Michigan State University from Fall 2020. My research involves developing novel deep learning frameworks that can effectively model extreme events in time series data with the incorporation of Extreme Value Theory (EVT), self-supervised learning, representation learning, and diffusion-based generative modeling. Specifically, my research focus is on both predictive and generative modeling to overcome the challenges associated with extreme value analysis in time series. Working as a Graduate Research Assistant (GRA) in [DMiner Lab @ MSU](https://www.egr.msu.edu/~ptan/dminer/) under the supervision of [Dr. Pang-Ning Tan](https://www.cse.msu.edu/~ptan/), I am actively engaged in pushing the boundaries of knowledge in my field.
 
 Prior to my doctoral studies, I earned my Master of Science (MSc.) and Bachelor of Science (BSc.) in Software Engineering from the Institute of Information Technology, University of Dhaka, Bangladesh. Beyond the academic realm, I enjoy reading, traveling, gaming, and other exciting pursuits.
 
-## Machine Learning and AI Expertise
+***
 
-**Font Notations:**
-- **Bold:** Implemented from scratch
-- *Italic:* Adapted/Utilized/Applied only  
+## Machine Learning and AI Aveneues I have explored
 
-**Source Notations:**
-- C: Code
-- P: Paper
-- U: Under-review or construction  
+**Notations:** **Bold Font:** Implemented from scratch; *Italic Font:* Adapted or Applied   
+
+**Source Notations:** C: Code; P: Paper; U: Under-review or construction  
 
 ### Time Series and Spatiotemporal Modeling:
-- **Extreme event forecasting and classification**
+- **Extreme event forecasting and classification
 - Handling large-scale missing values
 - Time series representation learning
-- Conditional generation of time addressing extreme events
-- Spatiotemporal modeling in global climate
+- Generation of time series addressing extreme events
+- Spatiotemporal modeling of regional climate**
 
 ### Generative AI:
 - *DDPM*, *Conditional DDPM*
 - **Deep Convolutional GAN (DCGAN)**
-- TimeGAN, Beta-VAE, Conditional VAE
+- *Conditional GAN, TimeGAN, Beta-VAE, Conditional VAE*
 
 ### NLP:
-- Neural Machine Translation (Transformer-based)
-- Word Embedding (GLoVe)
-- Topic Modeling (LDA)
+- **Neural Machine Translation (Transformer-based)
+- Word Embedding (GLoVe)**
+- *Topic Modeling (LDA)*
 
 ### Computer Vision:
-- Semantic Segmentation 1 2
+- **Semantic Segmentation 1 2
 - Image Colorization
 - Image to Image Translation (Conditional GAN)
 - Image Filtering (Gaussian, Sobel, LoG)
-- Image Stitching
-- Image Classification (ConvNets, ViT, Swin)
+- Image Stitching**
+- *Image Classification (ConvNets, ViT, Swin)*
 
 ### Adversarial Machine Learning:
-- Attacks: FGSM, BIM, PGD
-- Defense: Adversarial Training
+- Attacks: **FGSM, BIM, PGD**
+- Defense: **Adversarial Training**
 
 ### Representation Learning:
-- Contrastive Learning
-- Denoising Auto-Encoder
+- *Contrastive Learning
+- Denoising Auto-Encoder*
 
 ### Supervised Learning:
-- Link Prediction
-- Ridge, Logistic Regression, Sparse, MLR, PCA
-- Feature Engineering
+- **Link Prediction
+- Ridge, Logistic Regression, Sparse, MLR, PCA**
+- *Feature Engineering*
 
 ### Unsupervised Learning:
-- Community Detection
+- **Community Detection
 - PageRank
 - Gaussian Mixture Model
 - Clustering
-- Centrality Measure
+- Centrality Measure**
 
   
