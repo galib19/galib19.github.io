@@ -34,5 +34,60 @@ Currently, I am pursuing my Ph.D. in Computer Science and Engineering at Michiga
 
 Prior to my doctoral studies, I earned my Master of Science (MSc.) and Bachelor of Science (BSc.) in Software Engineering from the Institute of Information Technology, University of Dhaka, Bangladesh. Beyond the academic realm, I enjoy reading, traveling, gaming, and other exciting pursuits.
 
+## Machine Learning and AI Expertise
+
+**Font Notations:**
+- **Bold:** Implemented from scratch
+- *Italic:* Adapted/Utilized/Applied only  
+
+**Source Notations:**
+- C: Code
+- P: Paper
+- U: Under-review or construction  
+
+### Time Series and Spatiotemporal Modeling:
+- **Extreme event forecasting and classification**
+- Handling large-scale missing values
+- Time series representation learning
+- Conditional generation of time addressing extreme events
+- Spatiotemporal modeling in global climate
+
+### Generative AI:
+- *DDPM*, *Conditional DDPM*
+- **Deep Convolutional GAN (DCGAN)**
+- TimeGAN, Beta-VAE, Conditional VAE
+
+### NLP:
+- Neural Machine Translation (Transformer-based)
+- Word Embedding (GLoVe)
+- Topic Modeling (LDA)
+
+### Computer Vision:
+- Semantic Segmentation 1 2
+- Image Colorization
+- Image to Image Translation (Conditional GAN)
+- Image Filtering (Gaussian, Sobel, LoG)
+- Image Stitching
+- Image Classification (ConvNets, ViT, Swin)
+
+### Adversarial Machine Learning:
+- Attacks: FGSM, BIM, PGD
+- Defense: Adversarial Training
+
+### Representation Learning:
+- Contrastive Learning
+- Denoising Auto-Encoder
+
+### Supervised Learning:
+- Link Prediction
+- Ridge, Logistic Regression, Sparse, MLR, PCA
+- Feature Engineering
+
+### Unsupervised Learning:
+- Community Detection
+- PageRank
+- Gaussian Mixture Model
+- Clustering
+- Centrality Measure
 
   
