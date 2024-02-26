@@ -28,11 +28,11 @@ Prior to my doctoral studies, I earned my Master of Science (MSc.) and Bachelor 
 **Source Notations:** C: Code; P: Paper; U: Under-review or construction  
 
 ### Time Series and Spatiotemporal Modeling:
-- **Extreme event forecasting and classification
-- Handling large-scale missing values
-- Time series representation learning
-- Generation of time series addressing extreme events
-- Spatiotemporal modeling of regional climate**
+- **Extreme events forecasting and classification**
+- **Handling large-scale missing values**
+- **Time series representation learning**
+- **Generation of time series addressing extreme events**
+- **Spatiotemporal modeling of regional climate**
 
 ### Generative AI:
 - *DDPM*, *Conditional DDPM*
@@ -40,16 +40,16 @@ Prior to my doctoral studies, I earned my Master of Science (MSc.) and Bachelor 
 - *Conditional GAN, TimeGAN, Beta-VAE, Conditional VAE*
 
 ### NLP:
-- **Neural Machine Translation (Transformer-based)
-- Word Embedding (GLoVe)**
+- **Neural Machine Translation (Transformer-based)**
+- **Word Embedding (GLoVe)**
 - *Topic Modeling (LDA)*
 
 ### Computer Vision:
-- **Semantic Segmentation 1 2
-- Image Colorization
-- Image to Image Translation (Conditional GAN)
-- Image Filtering (Gaussian, Sobel, LoG)
-- Image Stitching**
+- **Semantic Segmentation 1 2**
+- **Image Colorization**
+- **Image to Image Translation (Conditional GAN)**
+- **Image Filtering (Gaussian, Sobel, LoG)**
+- **Image Stitching**
 - *Image Classification (ConvNets, ViT, Swin)*
 
 ### Adversarial Machine Learning:
@@ -57,19 +57,19 @@ Prior to my doctoral studies, I earned my Master of Science (MSc.) and Bachelor 
 - Defense: **Adversarial Training**
 
 ### Representation Learning:
-- *Contrastive Learning
-- Denoising Auto-Encoder*
+- *Contrastive Learning*
+- *Denoising Auto-Encoder*
 
 ### Supervised Learning:
-- **Link Prediction
-- Ridge, Logistic Regression, Sparse, MLR, PCA**
+- **Link Prediction**
+- **Ridge, Logistic Regression, Sparse, MLR, PCA**
 - *Feature Engineering*
 
 ### Unsupervised Learning:
-- **Community Detection
-- PageRank
-- Gaussian Mixture Model
-- Clustering
-- Centrality Measure**
+- **Community Detection**
+- **PageRank**
+- **Gaussian Mixture Model**
+- **Clustering**
+- **Centrality Measure**
 
   
