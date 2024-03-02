@@ -25,10 +25,10 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 
 \*<span style="color:blue">Font Notations:</span> 
 **Bold Font:** Implemented from scratch; *Italic Font:* Adapted or Applied   
-\*<span style="color:blue">Source/Link Notations:</span> C: Code; P: Paper; U: Under-review or construction; X: Not sharable due to policy/privacy concerns of company/project/agency
+\*<span style="color:blue">Source/Link Notations:</span> C: Code; P: Paper/Publication; U: Under-review or construction; X: Not sharable due to policy/privacy concerns of company/project/agency
 
 ### Time Series and Spatiotemporal Modeling:
-- **Extreme events forecasting and classification**
+- **Extreme events forecasting and classification**[C](https://github.com/galib19/DeepExtrema-IJCAI22-);[P-1](https://www.ijcai.org/proceedings/2022/0413.pdf);[P-2](https://www.ijcai.org/proceedings/2023/0414.pdf);[P-3](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790);[P-4](https://dl.acm.org/doi/pdf/10.1145/3534678.3539464);U
 - **Handling large-scale missing values**
 - **Time series representation learning**
 - **Generation of time series addressing extreme events**
