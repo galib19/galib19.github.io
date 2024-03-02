@@ -26,10 +26,10 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 
 ## Time Series and Spatiotemporal Modeling:
 - **Extreme events forecasting and classification** [[C]](https://github.com/galib19/DeepExtrema-IJCAI22-) [[P-1]](https://www.ijcai.org/proceedings/2022/0413.pdf) [[P-2]](https://www.ijcai.org/proceedings/2023/0414.pdf) [[P-3]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790) [[P-4]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539464) \[U\]
-- **Handling large-scale missing values**
-- **Time series representation learning**
-- **Generation of time series addressing extreme events**
-- **Spatiotemporal modeling of regional climate**
+- **Handling large-scale missing values** [[P-2]](https://www.ijcai.org/proceedings/2023/0414.pdf)
+- **Time series representation learning** [[P-3]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790)
+- **Generation of time series addressing extreme events** \[U\]
+- **Spatiotemporal modeling of regional climate** \[U\]
 
 ### Generative AI:
 - *DDPM*, *Conditional DDPM*
