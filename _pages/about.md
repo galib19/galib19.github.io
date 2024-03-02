@@ -32,9 +32,10 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 - **Adversarial Attacks and Defense of Time Series** \[C\] [[P]](https://arxiv.org/pdf/2301.03703.pdf)
 
 ### Generative AI:
-- *DDPM*, *Conditional DDPM* [U]
+- **DDPM**, **Conditional DDPM** [U]
 - **Deep Convolutional GAN (DCGAN)** [[C]](https://github.com/galib19/CSE-891-Deep-Learning/tree/main/Programming-Assignments/programming-assignment-4)
 - *Conditional GAN, TimeGAN, Beta-VAE, Conditional VAE* [U]
+- *Classifier-free Guidance* [U]
 
 ### NLP:
 - **Neural Machine Translation (Transformer-based)**
