@@ -30,6 +30,7 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 - **Time series representation learning** [[P-3]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790)
 - **Generation of time series addressing extreme events** \[U\]
 - **Spatiotemporal modeling of regional climate** \[U\]
+- **Adversarial Attacks and Defense of Time Series** \[C\] [[P]](https://arxiv.org/pdf/2301.03703.pdf)
 
 ### Generative AI:
 - *DDPM*, *Conditional DDPM*
