@@ -31,18 +31,18 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 - **Spatiotemporal modeling of regional climate** \[U\]
 - **Adversarial Attacks and Defense of Time Series** \[C\] [[P]](https://arxiv.org/pdf/2301.03703.pdf)
 
-### Generative AI:
+## Generative AI:
 - **DDPM**, **Conditional DDPM** [U]
 - **Deep Convolutional GAN (DCGAN)** [[C]](https://github.com/galib19/CSE-891-Deep-Learning/tree/main/Programming-Assignments/programming-assignment-4)
 - *Conditional GAN, TimeGAN, Beta-VAE, Conditional VAE* [U]
 - *Classifier-free Guidance* [U]
 
-### NLP:
+## NLP:
 - **Neural Machine Translation (Transformer-based)**
 - **Word Embedding (GLoVe)**
 - *Topic Modeling (LDA)*
 
-### Computer Vision:
+## Computer Vision:
 - **Semantic Segmentation 1 2**
 - **Image Colorization**
 - **Image to Image Translation (Conditional GAN)**
@@ -50,25 +50,31 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 - **Image Stitching**
 - *Image Classification (ConvNets, ViT, Swin)*
 
-### Adversarial Machine Learning:
+## Adversarial Machine Learning:
 - Attacks: **FGSM, BIM, PGD**
 - Defense: **Adversarial Training**
 
-### Representation Learning:
+## Representation Learning:
 - *Self-supervised Learning* [[P-1]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790) [[P-2]](https://www.ijcai.org/proceedings/2023/0414.pdf)
 - *Contrastive Learning* [[P-1]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790) [[P-2]](https://www.ijcai.org/proceedings/2023/0414.pdf)
 - *Denoising Auto-Encoder* [[P]](https://www.ijcai.org/proceedings/2023/0414.pdf)
 
-### Supervised Learning:
+## Supervised Learning:
 - **Link Prediction**
 - **Ridge, Logistic Regression, Sparse, MLR, PCA**
 - *Feature Engineering*
 
-### Unsupervised Learning:
+## Unsupervised Learning:
 - **Community Detection**
 - **PageRank**
 - **Gaussian Mixture Model**
 - **Clustering**
 - **Centrality Measure**
+
+## Misc.
+- *Physics-informed Neural Network*
+- *Reservoir Computing*
+- **Wavelet-based Data Augmentation** [[[P]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790)]
+- **Fourier-based Frequency Inflation** [U]
 
   
