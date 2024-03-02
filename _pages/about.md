@@ -54,8 +54,9 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 - Defense: **Adversarial Training**
 
 ### Representation Learning:
-- *Contrastive Learning*
-- *Denoising Auto-Encoder*
+- *Self-supervised Learning* [[P]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790)
+- *Contrastive Learning* [[P]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790)
+- *Denoising Auto-Encoder* [[P]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790)
 
 ### Supervised Learning:
 - **Link Prediction**
