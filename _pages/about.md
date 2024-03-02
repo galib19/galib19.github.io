@@ -13,11 +13,11 @@ redirect_from:
 
 ***
 
-As a Ph.D. candidate in Computer Science specializing in Machine Learning, with a solid foundation in Software Engineering and a proven track record of multi-disciplinary research collaboration, I am committed to advancing knowledge through innovative contributions in AI. My experience and academic degrees present a unique blend of proficiency in deep learning, machine learning, statistics, and software engineering. 
+As a Ph.D. candidate in Computer Science specializing in Machine Learning, with a solid foundation in Software Engineering and a proven track record of multi-disciplinary research collaboration, I am dedicated to advancing knowledge through innovative contributions in AI. My experience and academic degrees present a unique blend of proficiency in deep learning, machine learning, software engineering, and statistics. 
 
-Currently, I am pursuing my Ph.D. in Computer Science and Engineering at Michigan State University from Fall 2020. My research involves developing novel deep learning frameworks that can effectively model extreme events in time series data with the incorporation of Extreme Value Theory (EVT), self-supervised learning, representation learning, and diffusion-based generative modeling. Specifically, my research focus is on both predictive and generative modeling to overcome the challenges associated with extreme value analysis in time series. Working as a Graduate Research Assistant (GRA) in [DMiner Lab @ MSU](https://www.egr.msu.edu/~ptan/dminer/) under the supervision of [Dr. Pang-Ning Tan](https://www.cse.msu.edu/~ptan/), I am actively engaged in pushing the boundaries of knowledge in my field.
+My research involves developing novel deep learning frameworks that can effectively model extreme events in time series and spatio-temporal data with the incorporation of Extreme Value Theory (EVT), self-supervised learning, representation learning, and diffusion-based generative modeling. Specifically, my research focus is on both predictive and generative modeling to overcome the challenges associated with extreme value analysis in time series. Working as a Graduate Research Assistant (GRA) in [DMiner Lab @ MSU](https://www.egr.msu.edu/~ptan/dminer/) under the supervision of [Dr. Pang-Ning Tan](https://www.cse.msu.edu/~ptan/), I am actively engaged in pushing the boundaries of knowledge in my field.
 
-Prior to my doctoral studies, I earned my Master of Science (MSc.) and Bachelor of Science (BSc.) in Software Engineering from the Institute of Information Technology, University of Dhaka, Bangladesh. Beyond the academic realm, I enjoy reading, traveling, gaming, and other exciting pursuits.
+Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engineering from the Institute of Information Technology, University of Dhaka, Bangladesh. Beyond the academic realm, I enjoy reading, traveling, gaming, and other exciting pursuits.
 
 ***
 
@@ -25,7 +25,7 @@ Prior to my doctoral studies, I earned my Master of Science (MSc.) and Bachelor 
 
 \*<span style="color:blue">Font Notations:</span> 
 **Bold Font:** Implemented from scratch; *Italic Font:* Adapted or Applied   
-\*<span style="color:blue">Source/Link Notations:</span> C: Code; P: Paper; U: Under-review or construction  
+\*<span style="color:blue">Source/Link Notations:</span> C: Code; P: Paper; U: Under-review or construction; X: Not sharable due to policy/privacy concerns of company/project/agency
 
 ### Time Series and Spatiotemporal Modeling:
 - **Extreme events forecasting and classification**
