@@ -11,7 +11,9 @@ redirect_from:
 [Open to work and actively pursuing job opportunities]
 </span>
 
-As a Ph.D. candidate in Computer Science specializing in Machine Learning, with a solid foundation in Software Engineering and a proven track record of multi-disciplinary research collaboration, I am dedicated to advancing knowledge through innovative contributions in AI. My experience and academic degrees present a unique blend of proficiency in deep learning, machine learning, software engineering, and statistics. 
+As a Ph.D. candidate in Computer Science specializing in Machine Learning, I offer a strong background in Software Engineering
+coupled with a proven track record of multi-disciplinary research collaboration. I am committed to advancing knowledge through
+innovations in AI. My experience and academic degrees present a unique blend of proficiency in deep learning, machine learning, software engineering, and statistics. 
 
 My research involves developing novel deep learning frameworks that can effectively model extreme events in time series and spatio-temporal data with the incorporation of Extreme Value Theory (EVT), self-supervised learning, representation learning, and diffusion-based generative modeling. Specifically, my research focus is on both predictive and generative modeling to overcome the challenges associated with extreme value analysis in time series. Working as a Graduate Research Assistant (GRA) in [DMiner Lab @ MSU](https://www.egr.msu.edu/~ptan/dminer/) under the supervision of [Dr. Pang-Ning Tan](https://www.cse.msu.edu/~ptan/), I am actively engaged in pushing the boundaries of knowledge in my field.
 
@@ -28,7 +30,7 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 - **Handling large-scale missing values** [[P]](https://www.ijcai.org/proceedings/2023/0414.pdf)
 - **Time series representation learning** [[P]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790)
 - **Generation of time series addressing extreme events** \[U\]
-- **Spatiotemporal modeling of regional climate** \[U\]
+- **Spatiotemporal modeling of gloabal and regional climate** \[U\]
 - **Adversarial Attacks and Defense of Time Series** \[C\] [[P]](https://arxiv.org/pdf/2301.03703.pdf)
 
 ## Generative AI:
