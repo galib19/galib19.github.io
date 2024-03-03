@@ -15,7 +15,7 @@ As a Ph.D. candidate in Computer Science specializing in Machine Learning, I off
 coupled with a proven track record of multi-disciplinary research collaboration. I am committed to advancing knowledge through
 innovations in AI. My experience and academic degrees present a unique blend of proficiency in deep learning, machine learning, software engineering, and statistics. 
 
-My research involves developing novel deep learning frameworks that can effectively model extreme events in time series and spatio-temporal data with the incorporation of Extreme Value Theory (EVT), self-supervised learning, representation learning, and diffusion-based generative modeling. Specifically, my research focus is on both predictive and generative modeling to overcome the challenges associated with extreme value analysis in time series. Working as a Graduate Research Assistant (GRA) in [DMiner Lab @ MSU](https://www.egr.msu.edu/~ptan/dminer/) under the supervision of [Dr. Pang-Ning Tan](https://www.cse.msu.edu/~ptan/), I am actively engaged in pushing the boundaries of knowledge in my field.
+My research involves developing novel deep learning frameworks that can effectively model extreme events in time series and spatio-temporal data with the incorporation of Extreme Value Theory (EVT), self-supervised learning, representation learning, and diffusion-based generative modeling. Specifically, my research focus is on both predictive and generative modeling to overcome the challenges associated with extreme value analysis in time series. Working as a Graduate Research Assistant (GRA) in the [DMiner Lab @ MSU](https://www.egr.msu.edu/~ptan/dminer/) under the supervision of [Dr. Pang-Ning Tan](https://www.cse.msu.edu/~ptan/), I am actively engaged in pushing the boundaries of knowledge in my field.
 
 Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engineering from the Institute of Information Technology, University of Dhaka, Bangladesh. Beyond the academic realm, I enjoy reading, traveling, gaming, and other exciting pursuits.
 
@@ -40,21 +40,21 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 - *Classifier-free Guidance* [U]
 
 ## NLP:
-- **Neural Machine Translation (Transformer-based)**
-- **Word Embedding (GLoVe)**
-- *Topic Modeling (LDA)*
+- **Neural Machine Translation (Transformer-based)** [[C]](https://github.com/galib19/CSE-891-Deep-Learning/tree/main/Programming-Assignments/programming-assignment-3/programming-assignment-3)
+- **Word Embedding (GLoVe)** [[C]](https://github.com/galib19/CSE-891-Deep-Learning/tree/main/Programming-Assignments/programming-assignment-1/programming-assignment-1)
+- *Topic Modeling (LDA)* [[P]](https://galib19.github.io/files/GithubIssuesLDA2020.pdf)
 
 ## Computer Vision:
 - **Semantic Segmentation 1 2**
 - **Image Colorization**
-- **Image to Image Translation (Conditional GAN)**
+- **Image to Image Translation (Conditional GAN)** [[C]](https://github.com/galib19/Image-to-Image-Translation-using-Conditional-GAN) [[P]](https://galib19.github.io/files/ImageToImage_2021.pdf)
 - **Image Filtering (Gaussian, Sobel, LoG)**
 - **Image Stitching**
 - *Image Classification (ConvNets, ViT, Swin)*
 
 ## Adversarial Machine Learning:
-- Attacks: **FGSM, BIM, PGD**
-- Defense: **Adversarial Training**
+- Attacks: **FGSM, BIM, PGD** [[P]](https://arxiv.org/pdf/2301.03703.pdf)
+- Defense: **Adversarial Training** [[P]](https://arxiv.org/pdf/2301.03703.pdf)
 
 ## Representation Learning:
 - *Self-supervised Learning* [[P-1]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790) [[P-2]](https://www.ijcai.org/proceedings/2023/0414.pdf)
