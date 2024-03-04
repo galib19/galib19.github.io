@@ -32,6 +32,8 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 - **Generation of time series addressing extreme events** \[U\]
 - **Spatiotemporal modeling of gloabal and regional climate** \[U\]
 - **Adversarial Attacks and Defense of Time Series** \[C\] [[P]](https://arxiv.org/pdf/2301.03703.pdf)
+- **Counterfactual Explanation of Extreme Events in Time Series** \[U\]
+- *Interpreting Time Series Forecasting with diiferent Attribution Algorithms* [[C]](https://github.com/galib19/AI_Playground/blob/main/Misc/Interpreting_Time_Series_Forecasting.ipynb)
 
 ## Generative AI:
 - **DDPM**, **Conditional DDPM** [U]
