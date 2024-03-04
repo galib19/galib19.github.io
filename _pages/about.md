@@ -47,7 +47,7 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 ## Computer Vision:
 - **Semantic Segmentation** [[C-1]](https://github.com/galib19/CSE-891-Deep-Learning/tree/main/Programming-Assignments/programming-assignment-2/programming-assignment-2) [[C-2]](https://github.com/galib19/CSE-803-Computer-Vision/blob/main/Homeworks/HW5/part3.py)
 - **Image to Image Translation (Conditional GAN)** [[C]](https://github.com/galib19/Image-to-Image-Translation-using-Conditional-GAN) [[P]](https://galib19.github.io/files/ImageToImage_2021.pdf)
-- *Image Classification (ConvNets [[C]](https://github.com/galib19/CSE-803-Computer-Vision/blob/main/Homeworks/HW5/part1.py), ViT, Swin)*
+- *Image Classification (ConvNets* [[C]](https://github.com/galib19/CSE-803-Computer-Vision/blob/main/Homeworks/HW5/part1.py)*, ViT, Swin)*
 - **Image Stitching [[C]](https://github.com/galib19/CSE-803-Computer-Vision/tree/main/Homeworks/HW3/code), Colorization [[C-1]](https://github.com/galib19/CSE-891-Deep-Learning/tree/main/Programming-Assignments/programming-assignment-2/programming-assignment-2), Filtering (Gaussian, Sobel, LoG) [[C]](https://github.com/galib19/CSE-803-Computer-Vision/tree/main/Homeworks/HW2/solutions_submissions)**
 
 ## Interpretability/Explainability:
@@ -65,16 +65,17 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 - *Denoising Auto-Encoder* [[P]](https://www.ijcai.org/proceedings/2023/0414.pdf)
 
 ## Supervised Learning:
-- **Link Prediction**
-- **Ridge, Logistic Regression, Sparse, MLR, PCA**
-- *Feature Engineering*
+- **Link Prediction** [[C]](https://github.com/galib19/Analyzing-co-authorship-network-centrality-measure-link-prediction-community-detection---CSE891-Ptan)
+- **Ridge [[C]](https://github.com/galib19/CSE-847-Machine-Learning/tree/main/CSE_847_HW3_Matlab), Sparse Logistic Regression [[C]](https://github.com/galib19/CSE-847-Machine-Learning/tree/main/CSE_847_HW4_Matlab), MLR with Gaussian Elimination [[C]](https://github.com/galib19/Applied-ML-AI-Concepts-Without-Libraries-Raw-Code---CSE891-Ptan/tree/main/Multiple%20Linear%20Regression%20with%20Gaussian%20Elimination%20in%20Prediction) **
+- *Feature Selection* [[P]](https://ksiresearch.org/seke/seke20paper/paper143.pdf) [[C]](https://github.com/galib19/MS_Thesis) 
 
 ## Unsupervised Learning:
-- **Community Detection**
+- **Community Detection** [[C]](https://github.com/galib19/Analyzing-co-authorship-network-centrality-measure-link-prediction-community-detection---CSE891-Ptan)
 - **PageRank**
-- **Gaussian Mixture Model**
-- **Clustering**
-- **Centrality Measure**
+- **Gaussian Mixture Model Clustering** [[C]](https://github.com/galib19/Applied-ML-AI-Concepts-Without-Libraries-Raw-Code---CSE891-Ptan/tree/main/Gaussian%20Mixture%20Model%20Clustering%20with%20Expectation%20Maximization%20Algorithm)
+- **Spectral K-means Clustering** [[C]](https://github.com/galib19/CSE-847-Machine-Learning/tree/main/CSE_847_HW5_Matlab) 
+-- **PCA** [[C-1]](https://github.com/galib19/Applied-ML-AI-Concepts-Without-Libraries-Raw-Code---CSE891-Ptan/tree/main/PCA%20with%20Power%20Method%20for%20Digits%20Classification) [[C-2]](https://github.com/galib19/CSE-847-Machine-Learning/tree/main/CSE_847_HW5_Matlab)
+- **Centrality Measure** [[C]](https://github.com/galib19/Analyzing-co-authorship-network-centrality-measure-link-prediction-community-detection---CSE891-Ptan)
 
 ## Misc.
 - *Physics-informed Neural Network*
