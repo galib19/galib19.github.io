@@ -23,7 +23,7 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 
 \*<span style="color:blue">Font Notations:</span> 
 **Bold Font:** Implemented from scratch; *Italic Font:* Adapted or Applied   
-\*<span style="color:blue">Source/Link Notations:</span> \[C\]: Code; \[P\]: Publication/Paper/Report; \[U\]: Under-review or under-construction; \[X\]: Not sharable due to policy/privacy concerns of company/project/agency
+\*<span style="color:blue">Source/Link Notations:</span> \[C\]: Code; \[P\]: Publication/Paper/Report; \[U\]: Under-review or under-construction or not sharable due to policy/privacy concerns of company/project/agency
 
 ## Time Series and Spatiotemporal Modeling:
 - **Extreme events forecasting and classification** [[C]](https://github.com/galib19/DeepExtrema-IJCAI22-) [[P-1]](https://www.ijcai.org/proceedings/2022/0413.pdf) [[P-2]](https://www.ijcai.org/proceedings/2023/0414.pdf) [[P-3]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790) [[P-4]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539464) \[U\]
@@ -49,7 +49,7 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 ## Computer Vision:
 - **Semantic Segmentation** [[C-1]](https://github.com/galib19/CSE-891-Deep-Learning/tree/main/Programming-Assignments/programming-assignment-2/programming-assignment-2) [[C-2]](https://github.com/galib19/CSE-803-Computer-Vision/blob/main/Homeworks/HW5/part3.py)
 - **Image to Image Translation (Conditional GAN)** [[C]](https://github.com/galib19/Image-to-Image-Translation-using-Conditional-GAN) [[P]](https://galib19.github.io/files/ImageToImage_2021.pdf)
-- *Image Classification (ConvNets* [[C]](https://github.com/galib19/CSE-803-Computer-Vision/blob/main/Homeworks/HW5/part1.py)*, ViT, Swin)*
+- *Image Classification (ConvNets* [[C]](https://github.com/galib19/CSE-803-Computer-Vision/blob/main/Homeworks/HW5/part1.py)*, VisionTransformer \[U\], Swi Transformer \[U\])*
 - **Image Stitching [[C]](https://github.com/galib19/CSE-803-Computer-Vision/tree/main/Homeworks/HW3/code), Colorization [[C]](https://github.com/galib19/CSE-891-Deep-Learning/tree/main/Programming-Assignments/programming-assignment-2/programming-assignment-2), Filtering (Gaussian, Sobel, LoG) [[C]](https://github.com/galib19/CSE-803-Computer-Vision/tree/main/Homeworks/HW2/solutions_submissions)**
 
 ## Interpretability/Explainability:
@@ -82,7 +82,7 @@ Prior to my doctoral studies, I earned my Masters and Bachelors in Software Engi
 
 ## Misc.
 - *Physics-informed Neural Network* [[C]](https://github.com/galib19/Investigating_PINNs)
-- *Reservoir Computing*
+- *Reservoir Computing* [\U\]
 - **Wavelet-based Data Augmentation** [[P]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790)
 - **Fourier-based Frequency Inflation** [U]
 
