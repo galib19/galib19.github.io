@@ -6,19 +6,23 @@ author_profile: true
 
 ## Research Projects: 
 <br>
-1. <b>[Pre-birth Factors in the Early Assessment of Child Mortality using Machine Learning Techniques](http://galib19.github.io/projects/ChildMortality2019)</b><br> <br>
+1. <b>[On the Susceptibility and Robustness of Time Series Models through Adversarial Attack and Defense](https://arxiv.org/pdf/2301.03703)</b><br> <br>
+    Team: <b>Asadullah Hill Galib</b> and Bidhan Bashyal.
+    <br><br>
+    This research project investigates the vulnerability and robustness of several time series models through adversarial attacks and defense. Experiments are run on seven time series models with three adversarial attacks and one adversarial defense. According to the findings, all models, particularly GRU and RNN, appear to be vulnerable. LSTM and GRU also have better defense recovery. FGSM exceeds the competitors in terms of attacks. PGD attacks are more difficult to recover from than other sorts of attacks. [[Manuscript]](https://arxiv.org/pdf/2301.03703) [[Github]](https://github.com/galib19/Adversarial_Attacks_and_Defense_on_Time_Series)
+2. <b>[Pre-birth Factors in the Early Assessment of Child Mortality using Machine Learning Techniques](http://galib19.github.io/projects/ChildMortality2019)</b><br> <br>
     Team: <b>Asadullah Hill Galib</b>, Nadia Nahar, and B M Mainul Hossain.
     <br><br>
     This research project analyzes pre-birth factors, such as birth history, maternal history, reproduction history, socio-economic condition, etc. for the early classification of child mortality. Manuscript Ready. [(Show Details...)](http://galib19.github.io/projects/ChildMortality2019)
-1. <b>[Predicting GitHub Issues Lifetime using Machine Learning and Topic Modeling (LDA)](http://galib19.github.io/projects/GithubIssuesLDA2020)</b> <br> <br>
+3. <b>[Predicting GitHub Issues Lifetime using Machine Learning and Topic Modeling (LDA)](http://galib19.github.io/projects/GithubIssuesLDA2020)</b> <br> <br>
     Team: Syed Fatiul Huq, <b>Asadullah Hill Galib</b>, Abu Rafe Md. Jamil, and Ahmedul Kabir.
     <br><br>
     This research project analyzes the characteristics and applicability of topic modeling (LDA) in GitHub Issues and predicting lifetime based on topic modeling (LDA) with machine learning techniques. Manuscript Ready. [(Show Details...)](http://galib19.github.io/projects/GithubIssuesLDA2020)
-1. <b>[Optimizing Search Space in Code Smells Detection using a Novel Metric](http://galib19.github.io/projects/SearchSpace2020)</b> <br> <br> 
+4. <b>[Optimizing Search Space in Code Smells Detection using a Novel Metric](http://galib19.github.io/projects/SearchSpace2020)</b> <br> <br> 
     Team: Abu Rafe Md. Jamil, <b>Asadullah Hill Galib</b>, Md Nurul Ahad Tawhid, and Nadia Nahar.
     <br> <br> 
     This research project tries to reduce search space in code smells detection using a novel metric called - NCPC, while maintaining the performance of code smells detection. Manuscript Ready. [(Show Details...)](http://galib19.github.io/projects/SearchSpace2020)
-1. <b>[ProtectMe: An Approach to Provide Audio Privacy in Real-time](http://galib19.github.io/projects/Protect_Me_2019)</b> <br>  <br> 
+5. <b>[ProtectMe: An Approach to Provide Audio Privacy in Real-time](http://galib19.github.io/projects/Protect_Me_2019)</b> <br>  <br> 
     Team: Nishat Tasnim Niloy, Abu Rafe Md Jamil, <b>Asadullah Hill Galib</b>, Naushin Nower, and Mohammad Shoyaib.
      <br>
     This research project ensures audio communication with privacy in real-time using a modification algorithm. Manuscript in Preparation. [(Show Details...)](http://galib19.github.io/projects/Protect_Me_2019)
