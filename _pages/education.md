@@ -20,7 +20,7 @@ author_profile: true
 >
 > Dhaka, Bangladesh
 >
-> Thesis: Significant Features Analysis For Android Malware Detection Using Machine Learning Techniques [Thesis Manuscript](http://galib19.github.io/files/MSSE_Thesis_Asadullah_Hill_Galib.pdf) [Github](https://github.com/galib19/MS_Thesis) 
+> Thesis: Significant Features Analysis For Android Malware Detection Using Machine Learning Techniques [[Thesis Manuscript]](http://galib19.github.io/files/MSSE_Thesis_Asadullah_Hill_Galib.pdf) [[Github]](https://github.com/galib19/MS_Thesis) 
  
 ### BSc. in Software Engineering 
 > University of Dhaka (2015-2018) <br>
