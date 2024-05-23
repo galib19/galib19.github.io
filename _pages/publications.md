@@ -5,9 +5,9 @@ author_profile: true
 ---
 ### \* denotes equal contribution
 
+- Deng, Y., <b>Galib, A. H.</b>, Tan, P. N., & Luo, L. (2024, Aug.). Unraveling Block Maxima Forecasting Models with Counterfactual Explanation. In Proceedings of the 30th ACM <b>SIGKDD 2022</b> Conference on Knowledge Discovery and Data Mining. [To Appear]
 - Cullen\*, L., Smith\*, A. W., <b>Galib\*, A. H.</b>, Varshney\*, D., Brown, E., Chi, P., ... & Svoboda, F. (2024, Jan.). A Global Analysis of Pre-Earthquake Ionospheric Anomalies. arXiv. [PDF](https://arxiv.org/pdf/2401.01773.pdf) <b>
 - <b>Galib, A. H.</b>, Tan, P. N. & Luo, L. (2023, Dec.). SimEXT: Self-supervised Representation Learning for Extreme Values in Time Series. In Proceedings of the 23rd IEEE International Conference on Data Mining, <b>ICDM 2023</b> (pp. 1031-1036), IEEE. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790)
-<!-- (pp. 3723-3731). [PDF](https://www.ijcai.org/proceedings/2023/0414.pdf) -->
 - <b>Galib, A. H.</b>, McDonald, A., Tan, P. N. & Luo, L. (2023, Aug.). Self-Recover: Forecasting Block Maxima in Time Series from Predictors with Disparate Temporal Coverage using Self-Supervised Learning. In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, <b>IJCAI 2023</b> (pp. 3723-3731). [PDF](https://www.ijcai.org/proceedings/2023/0414.pdf)
 - Cullen\*, L., <b>Galib\*, A. H.</b>, Smith\*, A. W., Varshney\*, D., Brown, E., Chi, P., ... & Svoboda, F. (2022, Dec.). Can We Forecast And Detect Earthquakes From Heterogeneous Multivariate Time Series Data? In I Can’t Believe It’s Not Better Workshop: Understanding Deep Learning Through Empirical Falsification. <b>(ICBINB@ NeurIPS 2022)</b>. [PDF](https://openreview.net/pdf?id=y0fs6PbGJWt)
 - Cullen\*, L., <b>Galib\*, A. H.</b>, Smith\*, A. W., Varshney\*, D., Brown, E., Chi, P. J., ... & Svoboda, F. (2022, Dec.). Open-Source Data Pipelines and Statistical Tool for Studying Pre-Seismic and Post-Seismic Disturbances in the Ionosphere and Geomagnetic Field. In <b>AGU</b> Fall Meeting Abstracts (Vol. 2022, pp. IN25A-07).
