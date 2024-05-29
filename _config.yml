@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Asadullah Hill Galib"
 title_separator          : "-"
-name                     : &name "Asadullah Hill Galib"
+name                     : [&name](https://galib19.github.io)  "Asadullah Hill Galib"
 description              : &description "personal description"
 url                      : https://galib19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
