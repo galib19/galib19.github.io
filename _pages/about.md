@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+![Career Timeline](/images/galib_career_timeline.png)
+
 <span style="color:blue">
 [Open to work and actively pursuing job opportunities]
 </span>
