@@ -15,7 +15,7 @@ redirect_from:
 </span>
 
 <span style="color:blue">
-[PhD Summary](https://galib19.github.io/education/phd) 
+[[PhD Summary]](https://galib19.github.io/education/phd) 
 </span>
 
 As a Ph.D. candidate in Computer Science specializing in Machine Learning, I offer a strong background in Software Engineering
