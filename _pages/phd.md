@@ -6,7 +6,7 @@ permalink: /education/phd
 ---
 
 
-![PhD Image](/images/galib_phd_research)
+![PhD Image](/images/galib_phd_research.png)
 
 ## Asadullah Hill Galib
 ### Advisor: Dr. Pang-Ning Tan 
