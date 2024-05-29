@@ -14,9 +14,9 @@ redirect_from:
 [Open to work and actively pursuing job opportunities]
 </span>
 
-<span style="color:blue">
-[[PhD Summary]](https://galib19.github.io/education/phd) 
-</span>
+[<span style="color:blue">
+[PhD Summary]
+</span>](https://galib19.github.io/education/phd) 
 
 As a Ph.D. candidate in Computer Science specializing in Machine Learning, I offer a strong background in Software Engineering
 coupled with a proven track record of multi-disciplinary research collaboration. I am committed to advancing knowledge through
