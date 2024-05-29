@@ -4,7 +4,7 @@ permalink: /education/
 author_profile: true
 ---
 
-### Ph.D. in Computer Science and Engineering 
+### PhD in Computer Science [[Details]](https://galib19.github.io/education/phd)  
 > Michigan State University (Fall 2020 - Present) <br>
 > 
 > Michigan, USA
