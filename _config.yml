@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Asadullah Hill Galib"
 title_separator          : "-"
-name                     : [&name](https://galib19.github.io)  "Asadullah Hill Galib"
+name                     : &name  "Asadullah Hill Galib"
 description              : &description "personal description"
 url                      : https://galib19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Asadullah Hill Galib"
   avatar           : "casual.jpg"
-  bio              : "Ph.D. Candidate, Computer Science and Engineering, Michigan State University. Specialization: Deep Learning, AI, Forecasting, Generative Modeling, Representation Learning, Time Series and Spatiotemporal Data"
+  bio              : "Ph.D. Candidate, Computer Science, Michigan State University. Specialization: Deep Learning, AI, Forecasting, Generative Modeling, Representation Learning, Time Series and Spatiotemporal Data"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
