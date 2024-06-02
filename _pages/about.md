@@ -18,6 +18,18 @@ redirect_from:
 [PhD Summary]
 </span>[(Link)](https://galib19.github.io/education/phd) 
 
+<div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2">Formatted list of publications with bibtex:</h2>
+                
+                <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fkmmukut%2Fkmmukut%2Fgh-pages%2Fmypub.bib&amp;commas=true$css=https://bibbase.org/css/styles/default.css&amp;nocache=1&amp;jsonp=1"></script>
+
+                
+            </div>
+        </div>
+</div>
+
 As a Ph.D. candidate in Computer Science specializing in Machine Learning, I offer a strong background in Software Engineering
 coupled with a proven track record of multi-disciplinary research collaboration. I am committed to advancing knowledge through
 innovations in AI. My experience and academic degrees present a unique blend of proficiency in deep learning, machine learning, software engineering, and statistics. 
