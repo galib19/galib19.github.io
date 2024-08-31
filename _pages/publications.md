@@ -5,7 +5,8 @@ author_profile: true
 ---
 ### \* denotes equal contribution
 
-- Deng, Y., <b>Galib, A. H.</b>, Tan, P. N., & Luo, L. (2024, Aug.). Unraveling Block Maxima Forecasting Models with Counterfactual Explanation. In Proceedings of the 30th ACM SIGKDD 2024 Conference on Knowledge Discovery and Data Mining, <b>KDD 2024</b>.
+
+- Deng, Y., <b>Galib, A. H.</b>, Tan, P. N., & Luo, L. (2024, Aug.). Unraveling Block Maxima Forecasting Models with Counterfactual Explanation. In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, <b>KDD 2024</b> (pp. 562-573). [PDF](https://dl.acm.org/doi/pdf/10.1145/3637528.3671923)
 - Cullen\*, L., Smith\*, A. W., <b>Galib\*, A. H.</b>, Varshney\*, D., Brown, E., Chi, P., ... & Svoboda, F. (2024, Jan.). A Global Analysis of Pre-Earthquake Ionospheric Anomalies. arXiv. [PDF](https://arxiv.org/pdf/2401.01773.pdf) <b>
 - <b>Galib, A. H.</b>, Tan, P. N. & Luo, L. (2023, Dec.). SimEXT: Self-supervised Representation Learning for Extreme Values in Time Series. In Proceedings of the 23rd IEEE International Conference on Data Mining, <b>ICDM 2023</b> (pp. 1031-1036), IEEE. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415790)
 - <b>Galib, A. H.</b>, McDonald, A., Tan, P. N. & Luo, L. (2023, Aug.). Self-Recover: Forecasting Block Maxima in Time Series from Predictors with Disparate Temporal Coverage using Self-Supervised Learning. In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, <b>IJCAI 2023</b> (pp. 3723-3731). [PDF](https://www.ijcai.org/proceedings/2023/0414.pdf)
