@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ### PhD in Computer Science [[Details]](https://galib19.github.io/education/phd)  
-> Michigan State University (Fall 2020 - Present) <br>
+> Michigan State University (Aug 2020 - Jul 2024) <br>
 > 
 > Michigan, USA
 >
@@ -16,14 +16,14 @@ author_profile: true
 > Lab: [DMiner Lab @ MSU](https://www.egr.msu.edu/~ptan/dminer/)
 
 ### MSc. in Software Engineering 
-> University of Dhaka (2019-2020) <br>
+> University of Dhaka (Jan 2019- Dec 2020) <br>
 >
 > Dhaka, Bangladesh
 >
 > Thesis: Significant Features Analysis For Android Malware Detection Using Machine Learning Techniques [[Thesis Manuscript]](http://galib19.github.io/files/MSSE_Thesis_Asadullah_Hill_Galib.pdf) [[Github]](https://github.com/galib19/MS_Thesis) 
  
 ### BSc. in Software Engineering 
-> University of Dhaka (2015-2018) <br>
+> University of Dhaka (Jan 2015- Dec 2018) <br>
 >
 > Dhaka, Bangladesh
 
